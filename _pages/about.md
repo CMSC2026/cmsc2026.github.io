@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Creative Mathematical Sciences Communication (CMSC) 2026"
+title: "Creative Mathematical Sciences Communication 2026"
 author_profile: true
 redirect_from: 
   - /about/
