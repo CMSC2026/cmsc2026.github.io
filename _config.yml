@@ -24,10 +24,10 @@ repository               : "CMSC2026/cmsc2026.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "CMSC 2026"
+  name             : "Creative Mathematical Sciences Communication 2026"
   pronouns         : # example: "she/her"  
-  bio              :
-    Padova, October 12–15, 2026 <br/><br/>
+  bio              : 
+    Padova, October 12–15, 2026 <br/>
     <ul>
       <li> <b>Submission opening</b>:<br/> January 10, 2026</li>
       <li> <b>Submission deadline</b>:<br/> March 31, 2026</li>
@@ -37,7 +37,7 @@ author:
       <li> <b>Registration deadline</b>:<br/>September 15, 2026</li>
     </ul>
 
-  location         : "Department of Information Engineering"
+  location         : "Dep. of Information Engineering"
   employer         : "University of Padova, Italy"
   uri              : # URL
   email            : "cmsc2026@dei.unipd.it" 
