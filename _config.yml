@@ -27,15 +27,14 @@ author:
   name             : "CMSC 2026"
   pronouns         : # example: "she/her"  
   bio              :
-    Padova, October 11–13, 2026 <br/>
-    <b>Important dates</b>
+    Padova, October 12–15, 2026 <br/><br/>
     <ul>
-      <li> Submission opening:<br/> January 10, 2026</li>
-      <li> Submission deadline:<br/> March 31, 2026</li>
-      <li> Acceptance notification:<br/>April 30, 2026</li>
-      <li> Camera ready:<br/>May 15, 2026</li>
-      <li> Registration opening:<br/>June 01, 2026</li>
-      <li> Registration deadline:<br/>September 15, 2026</li>
+      <li> <b>Submission opening</b>:<br/> January 10, 2026</li>
+      <li> <b>Submission deadline</b>:<br/> March 31, 2026</li>
+      <li> <b>Acceptance notification</b>:<br/>April 30, 2026</li>
+      <li> <b>Camera ready</b>:<br/>May 15, 2026</li>
+      <li> <b>Registration opening</b>:<br/>June 01, 2026</li>
+      <li> <b>Registration deadline</b>:<br/>September 15, 2026</li>
     </ul>
 
   location         : "Department of Information Engineering"
