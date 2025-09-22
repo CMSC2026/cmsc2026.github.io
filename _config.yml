@@ -26,7 +26,18 @@ author:
   avatar           : "profile.png"
   name             : "CMSC 2026"
   pronouns         : # example: "she/her"  
-  bio              : "October 11-15, 2026"
+  bio              :
+    Padova, October 11–13, 2026 <br/>
+    <b>Important dates</b>
+    <ul style="list-style-type: none; padding-left: 0; margin-left: 0; margin-top: 0;">
+      <li> Submission opening:<br/> January 10, 2026</li>
+      <li> Submission deadline:<br/> March 31, 2026</li>
+      <li> Acceptance notification:<br/>April 30, 2026</li>
+      <li> Camera ready:<br/>May 15, 2026</li>
+      <li> Registration opening:<br/>June 01, 2026</li>
+      <li> Registration deadline:<br/>September 15, 2026</li>
+    </ul>
+
   location         : "Department of Information Engineering"
   employer         : "University of Padova, Italy"
   uri              : # URL
