@@ -14,19 +14,19 @@ The conference will be held at the [Department of Information Engineering](https
 ![DEI-Map](/images/venue-DEI-map.png)
 
 
-## How to reach the venue from the Padova city center
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Q890EkAvZeghdNdgnBgMF7Kx-q4iSqM&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
-
-The venue can easily be reached from the Padova city center, the railway station, and the bus station with a 20-minute walk.
-Alternatively, one can take a bus. Bus timetables can be checked on Google Maps or on the website of the company offering the service, i.e., [BusItalia](https://www.fsbusitalia.it/it/veneto/orari-e-linee.html). There, one can also find information about accessibility measures (in [Italian](https://www.fsbusitalia.it/it/veneto/accessibilita.html) and [English](https://www.fsbusitalia.it/eng/link/support/accessibility.html)).
-
 ### Accessibility and inclusive measures at DEI and UNIPD
 
 The University of Padova is always careful in promoting and implementing policies attentive to any disparities and inequalities, to encourage “the full participation in university life of students in conditions of disability, vulnerability, or difficulty”. For instance, there are [referees](https://www.unipd.it/en/referees-services-inclusion-disability) for inclusion and disability, such as the Rector’s delegate and Department advisors, to contact for any issues in any space of the University. We refer to [this document](https://www.unipd.it/sites/unipd.it/files/2025/Elenco%20Referenti%20Commissione%20Inclusione_2024-2025_REP.pdf) for the list of referees, including Prof. Andrea Galtarossa, in charge for DEI. Also, dedicated services or extraordinary measures, in case of need, are offered to guarantee attendance in the classroom.
 For further details, please see [this webpage](https://www.unipd.it/en/home/inclusive-university).
 
+### How to reach the venue from the Padova city center
+
+The venue can easily be reached from the Padova city center, the railway station, and the bus station with a 20-minute walk.
+Alternatively, one can take a bus. Bus timetables can be checked on Google Maps or on the website of the company offering the service, i.e., [BusItalia](https://www.fsbusitalia.it/it/veneto/orari-e-linee.html). There, one can also find information about accessibility measures (in [Italian](https://www.fsbusitalia.it/it/veneto/accessibilita.html) and [English](https://www.fsbusitalia.it/eng/link/support/accessibility.html)).
+
 ## How to reach Padova
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Q890EkAvZeghdNdgnBgMF7Kx-q4iSqM&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
 Padova can be reached in several ways.
 
