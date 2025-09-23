@@ -12,20 +12,23 @@ main:
   - title: "Important Dates"
     url: /dates/
 
-  - title: "Call for Papers"
+  - title: "Call"
     url: /call/
 
   - title: "Schedule"
     url: /schedule/
 
-  - title: "Plenary Speakers"
+  - title: "Speakers"
     url: /speakers/
 
   - title: "Sponsors"
     url: /sponsors/
 
+  - title: "Committees"
+    url: /committees/
+
   - title: "Venue"
     url: /venue/
 
-  - title: "Committees"
-    url: /committees/
+  - title: "More Info"
+    url: /more-info/

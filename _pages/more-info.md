@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Other Informations"
-permalink: /other-informations/
+title: "More Info"
+permalink: /more-info/
 author_profile: true
 ---
 
