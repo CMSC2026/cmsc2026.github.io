@@ -8,6 +8,10 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+
+  - title: "Important Dates"
+    url: /dates/
+
   - title: "Call for Papers"
     url: /call/
 
