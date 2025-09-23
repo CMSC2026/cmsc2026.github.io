@@ -23,5 +23,5 @@ main:
   - title: "Venue"
     url: /venue/
 
-  - title: "Contacts"
-    url: /contacts/
+  - title: "Committees"
+    url: /committees/
