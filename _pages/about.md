@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-We are pleased to invite you to the 5th edition of the international conference **Creative Mathematical Sciences Communication**, which will be held in Padova, Italy, from October 12 to October 15, 2026.
+We are pleased to invite you to the 8th edition of the international conference **Creative Mathematical Sciences Communication**, which will be held in Padova, Italy, from October 12 to October 15, 2026.
 
 The CMSC conference series was initiated in 2013, recognizing that the competencies required for the increasingly computerized world are essentially mathematical. The CMSC aims to explore new ways of communicating the rich mathematical ideas fundamental for computer science.  The science of computer science is mathematics.  “*Turn off the machines and turn on your mathematical thinking.*” For an example, see “Games That Cannot Go on Forever! Active Participation in Research Is the Main Issue for Kids” by Michael R. Fellows, Frances A. Rosamond. CMSC 2024 Proceedings, Trier, Germany.
  

@@ -5,4 +5,4 @@ permalink: /schedule/
 author_profile: true
 ---
 
-TBA
+A provisional schedule will be announced at the end of the revision process.

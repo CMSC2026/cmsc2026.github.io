@@ -37,10 +37,6 @@ The main topics of the conference include (but are not limited to):
 
 Work submitted to CMSC should be novel and material that has been previously published should not be republished unless the work has been significantly revised. Note, however, that while novel work is highly valued, constructive replication of previous studies can also be a significant contribution, and a new interpretation or evaluation of previously published work can make a good contribution.
 
-## Submission in Phases
-
-We do encourage submissions in the first phase: here, we can also offer a revision process, i.e., authors may update their papers according to the requirements set by the reviewers and re-submit it, so that the changes can be checked by the reviewers, while for papers submitted to the second phase, no checks of the requested modifications can be implemented.
-
 ## Submission Guidelines
 
 All contributions (papers and posters) will be submitted through the XXX platform.

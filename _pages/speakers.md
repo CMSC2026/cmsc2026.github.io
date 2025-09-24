@@ -5,4 +5,4 @@ permalink: /speakers/
 author_profile: true
 ---
 
-TBA
+The Plenary Speakers will be announced soon.
