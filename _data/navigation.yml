@@ -12,13 +12,13 @@ main:
   - title: "Important Dates"
     url: /dates/
 
-  - title: "Call"
+  - title: "Call for Contributions"
     url: /call/
 
   - title: "Schedule"
     url: /schedule/
 
-  - title: "Speakers"
+  - title: "Plenary Speakers"
     url: /speakers/
 
   - title: "Sponsors"
@@ -30,5 +30,5 @@ main:
   - title: "Venue"
     url: /venue/
 
-  - title: "More Info"
-    url: /more-info/
+  # - title: "More Info"
+  #   url: /more-info/

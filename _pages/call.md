@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Call for Papers"
+title: "Call for Contributions"
 permalink: /call/
 author_profile: true
 ---
