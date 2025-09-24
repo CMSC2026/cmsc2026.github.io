@@ -8,8 +8,8 @@ author_profile: true
 ## Program and Organizing Chairs
 
 - [Marteen Löffler](https://webspace.science.uu.nl/~loffl001/about.html), Utrecht University
-- [Francesco Silvestri](https://www.dei.unipd.it/~silvestri/index.html), University of Padova
 - [Alice Raffaele](https://aliceraffaele.github.io), University of Padova
+- [Francesco Silvestri](https://www.dei.unipd.it/~silvestri/index.html), University of Padova
 
 
 ## Steering Committee
@@ -26,3 +26,7 @@ author_profile: true
 - Matt Skoss, The Australian Association of Mathematics Teachers, Australia
 - Verena Specht-Ronique, HLTM Marburg, Germany
 - Brett Stephenson, University of Tasmania, Australia
+
+## Program Committee
+
+The members of the Program Committee will be announced soon.
