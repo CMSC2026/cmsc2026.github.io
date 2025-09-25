@@ -12,7 +12,7 @@ main:
   - title: "Important Dates"
     url: /dates/
 
-  - title: "Call for Contributions"
+  - title: "Call"
     url: /call/
 
   - title: "Schedule"
@@ -30,5 +30,5 @@ main:
   - title: "Venue"
     url: /venue/
 
-  # - title: "More Info"
-  #   url: /more-info/
+  - title: "Social Events"
+    url: /social-events/

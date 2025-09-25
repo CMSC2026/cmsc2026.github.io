@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "More Info"
-permalink: /more-info/
+title: "Social Events"
+permalink: /social-events/
 author_profile: true
 ---
 
-
+To be announced soon.
