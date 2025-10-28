@@ -58,4 +58,7 @@ Minimum information required: title, author(s), institution(s), contact informat
 
 Please bring a printed poster of the correct size to the conference.
 
+### Submission Platform
+The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+
 
