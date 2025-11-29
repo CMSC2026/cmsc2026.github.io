@@ -9,7 +9,7 @@ author_profile: true
 
 - [Maarten Löffler](https://webspace.science.uu.nl/~loffl001/about.html), Utrecht University (program co-chair)
 - [Alice Raffaele](https://aliceraffaele.github.io), University of Padova (organizing co-chair)
-- [Francesco Silvestri](https://www.dei.unipd.it/~silvestri/index.html), University of Padova (orgranizing and program chair)
+- [Francesco Silvestri](https://www.dei.unipd.it/~silvestri/index.html), University of Padova (organizing and program chair)
 
 
 ## Steering Committee
