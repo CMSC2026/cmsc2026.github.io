@@ -20,6 +20,8 @@ CMSC welcomes the following contributions:
 
 The page limitations include references. Papers may have an appendix, whose length must not exceed 3 pages; reading of the appendix is at the discretion of the reviewers. Accepted papers will be published in the Springer Lecture Notes in Computer Science (LNCS) series. The submissions should be formatted accordingly. Posters will not be published.
 
+All inquiries about submissions should be sent to cmsc2026@dei.unipd.it.
+
 ## Conference Scope
 The main topics of the conference include, but are not limited to:
 - Teaching Computer Science in early childhood, primary, secondary, and higher education
@@ -38,15 +40,15 @@ Work submitted to CMSC as standard papers should be novel and original. Material
 
 ## Accepted Contributions
 For all accepted contributions, we expect at least one author to attend the conference to present it. 
-Given the creative nature of CMSC, you will have a free choice how to present your work, as long as it fits the
-schedule and conference locations. We encourage authors to contact the organizers before the submissions for inquieres about special requirememnts of the presenation.
+Given the creative nature of CMSC, you will have a free choice of how to present your work, as long as it fits the
+schedule and conference locations. We encourage authors to contact the organizers before the submission for inquiries about special requirements of the presentation.
 Possible formats are: a traditional plenary conference talk, a
-video showing, a live performance, an installation, a test
+video showing a live performance, an installation of limited size, a test
 session for an educational activity (with other participants as test
 subjects), and more. 
 
 ## Submission Guidelines
-All contributions (papers and posters) will be submitted through the Microsoft CMT platform unsing LNCS templates. More details will be posted soon.
+All contributions (papers and posters) will be submitted through the Microsoft CMT platform using LNCS templates. More details will be posted soon.
 
 ### Standard Paper Requirements
 Submissions must be formatted according to the Springer LNCS style guidelines using LaTeX. The maximum length of the paper (including references, but excluding the optional appendix) is 12 pages; the minimum length is 4 pages. The length of the abstract should be 200-300 words.
