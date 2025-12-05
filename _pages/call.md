@@ -24,7 +24,7 @@ The page limitations include references. Papers may have an appendix, whose leng
 
 Work submitted to CMSC as standard papers should be novel and original. Material that has been previously published can be presented as a poster, or it can be submitted as a standard paper only if the work has been significantly revised. Note, however, that while novel work is highly valued, constructive replication of previous studies can also be a significant contribution, and a new interpretation or evaluation of previously published work can make a good contribution.
 
-All inquiries about submissions should be sent to cmsc2026@dei.unipd.it.
+All inquiries about submissions should be sent to [cmsc2026@dei.unipd.it](mailto:cmsc2026@dei.unipd.it).
 
 ## Conference Scope
 The main topics of the conference include, but are not limited to:
