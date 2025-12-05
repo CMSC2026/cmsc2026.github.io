@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 - **Abstract submission first round**: March 06th, 2026
-- **Full/short paper submission first round**: March 13th, 2026
+- **Standard paper submission first round**: March 13th, 2026
 - **Notification of acceptance for papers first round**: April 24th, 2026
 
 - **Abstract submission second round**: May 29th, 2026
-- **Full/short paper submission second round**: June 5th, 2026
+- **Standard paper submission second round**: June 5th, 2026
 - **Notification of acceptance for papers second round**: July 12th, 2026
 
 <!-- - **Camera-ready versions of accepted papers**: July 24th, 2026 -->
