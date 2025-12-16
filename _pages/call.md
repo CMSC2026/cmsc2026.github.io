@@ -54,7 +54,7 @@ Possible formats include, but are not limited to:
 All contributions (papers and posters) must be submitted through the Microsoft CMT platform, using LNCS templates. More details will be posted soon.
 
 ### Standard Paper Requirements
-Submissions must be formatted according to the Springer LNCS style guidelines using LaTeX. The maximum length of the paper (including references, but excluding the optional appendix) is 12 pages; the minimum length is 4 pages. The length of the abstract should be 200-300 words.
+Submissions must be formatted according to the Springer LNCS style guidelines using LaTeX. The maximum length of the paper (including references, but excluding the optional appendix) is 12 pages; the minimum length is 3 pages.
 
 ### Poster Requirements
 To prepare a poster submission (up to 3 pages), authors are also asked to use the same Springer templates. The purpose of the poster is to stimulate discussion with conference participants about your presented activity during the conference. During the poster session, the poster presenters should be present at their booth to give short presentations to interested participants.
