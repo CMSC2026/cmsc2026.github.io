@@ -50,14 +50,21 @@ Possible formats include, but are not limited to:
 - an installation of limited size
 - a test session for an educational activity (with other participants as test subjects)
 
+In addition, for a selected number of accepted papers, it would be possible to present their work during the last day at the Teachers' day to teachers from primary/secondary schools. More details will be provided in late Spring 2026.  
+
+
 ## Submission Guidelines
-All contributions (papers and posters) must be submitted through the Microsoft CMT platform, using LNCS templates. More details will be posted soon.
+All contributions (papers and posters) must be submitted through the [Microsoft CMT platform](https://cmt3.research.microsoft.com/CMSC2026), using LNCS templates. More details will be posted soon.
+Submissions must be formatted according to the Springer LNCS style guidelines using LaTeX. The maximum length of the paper (including references, but excluding the optional appendix) is 12 pages
+
 
 ### Standard Paper Requirements
-Submissions must be formatted according to the Springer LNCS style guidelines using LaTeX. The maximum length of the paper (including references, but excluding the optional appendix) is 12 pages; the minimum length is 3 pages.
+All submissions must be formatted according to the [Springer LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) guidelines using [LaTeX](https://www.latex-project.org/). 
 
 ### Poster Requirements
-To prepare a poster submission (up to 3 pages), authors are also asked to use the same Springer templates. The purpose of the poster is to stimulate discussion with conference participants about your presented activity during the conference. During the poster session, the poster presenters should be present at their booth to give short presentations to interested participants.
+To prepare a poster submission (up to 3 pages), authors are also asked to use the same [Springer LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and to use [LaTeX](https://www.latex-project.org/). 
+The purpose of the poster is to stimulate discussion with conference participants about your presented activity during the conference. During the poster session, the poster presenters should be present at their booth to give short presentations to interested participants.
+
 The final poster of an accepted poster submission should have the following requirements:
 - Size and orientation: A1 portrait (594 × 841 mm)
 - Minimum information required: title, author(s), institution(s), contact information, problem statement, description of work, gained results, future work, and primary references.
