@@ -1,0 +1,7 @@
+- name: Jane Street
+  url: https://www.janestreet.com
+  logo: /images/logo/jane-street.png
+
+- name: Springer
+  url: https://www.springer.com
+  logo: /images/logo/springer.png
