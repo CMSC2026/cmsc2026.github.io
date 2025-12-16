@@ -4,8 +4,9 @@ title: "Important Dates"
 permalink: /dates/
 author_profile: true
 ---
+- **CMT website open for submissions**: February 1st, 2026
 
-- **Abstract submission first round**: March 06th, 2026
+- **Abstract submission first round**: March 6th, 2026
 - **Standard paper submission first round**: March 13th, 2026
 - **Notification of acceptance for papers first round**: April 24th, 2026
 
