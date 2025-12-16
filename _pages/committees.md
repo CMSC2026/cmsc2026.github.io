@@ -23,6 +23,7 @@ author_profile: true
 - Valia Mitsou, IRIF, Paris Diderot University, France
 - Jam Ramanujam, The Institute of Mathematical Sciences, Chennai, India
 - Rüdiger Reischuk, University of Lübeck, Germany
+- Eljakim Schrijvers, Eljakim IT, Netherlands (International Chair)
 - Matt Skoss, The Australian Association of Mathematics Teachers, Australia
 - Verena Specht-Ronique, HLTM Marburg, Germany
 - Brett Stephenson, University of Tasmania, Australia
