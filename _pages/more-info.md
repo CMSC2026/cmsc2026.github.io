@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Events"
-permalink: /events/
+permalink: /social-events/
 author_profile: true
 ---
 
