@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![CMSC](/images/cmsc-king.png)
+![CMSC](/images/cmsc-king.jpg)
 
 We are pleased to invite you to the 8th edition of the international conference **Creative Mathematical Sciences Communication**, which will be held in Padova, Italy, from October 12 to October 15, 2026.
 
