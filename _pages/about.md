@@ -10,7 +10,7 @@ redirect_from:
 
 <table border="0" cellpadding="2" cellspacing="0">
   <tr>
-    <td><img src="/images/cmsc-ordering.jpg" width="200"></td>
+    <td><img src="/images/cmsc-ordering.jpeg" width="200"></td>
     <td><img src="/images/dijkstra_table_2.jpg" width="200"></td>
     <td><img src="/images/cmsc-children.png" width="200"></td>
     <td><img src="/images/cmsc-king.jpg" width="200"></td>
