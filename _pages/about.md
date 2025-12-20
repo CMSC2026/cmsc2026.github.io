@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/dijkstra_table_2.jpg" height="200" /> <img src="/images/cmsc-children.png" height="200" /> <img src="/images/cmsc-king.jpg" height="200" />
+<img src="/images/dijkstra_table_2.jpg" height="50" /> <img src="/images/cmsc-children.png" height="50" /> <img src="/images/cmsc-king.jpg" height="50" />
 
 We are pleased to invite you to the 8th edition of the international conference **Creative Mathematical Sciences Communication**, which will be held in Padova, Italy, from October 12 to October 15, 2026.
 
