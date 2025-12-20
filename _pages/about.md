@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <td><img src="/images/dijkstra_table_2.jpg" height="150"></td>
-    <td><img src="/images/cmsc-children.png" height="150"></td>
-    <td><img src="/images/cmsc-king.jpg" height="150"></td>
+    <td><img src="/images/dijkstra_table_2.jpg" width="150"></td>
+    <td><img src="/images/cmsc-children.png" width="150"></td>
+    <td><img src="/images/cmsc-king.jpg" width="150"></td>
   </tr>
 </table>
 
