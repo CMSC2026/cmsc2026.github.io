@@ -2,9 +2,9 @@
 #   url: https://www.airdm.org
 #   logo: /images/logo/airdm.png
 
-# - name: AIRO 
-#   url: https://www.airo.org/
-#   logo: /images/logo/airo.png
+- name: AIRO 
+  url: https://www.airo.org/
+  logo: /images/logo/airo.png
 
 # - name: BICI
 #   url: http://www.bici.eu/organization/index.html
