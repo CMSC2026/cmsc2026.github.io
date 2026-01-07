@@ -31,8 +31,12 @@ The conference features keynote talks by... TBD
 
 ## About CMSC
 
-Kids of all ages and modern citizens need to appreciate algorithms and computational thinking. Join scientists, researchers, teachers and artists in developing new ways of communicating computational thinking, including computing activities across the curriculum, at every level. CMSC welcomes contributions in forms such as story, dance, art, theatre,  … many ways to communicate science to the public.
-CMSC aims to create activities to teach kids without computers, following the [Computer Science Unplugged](www.csunplugged.org) philosophy.
+Kids of all ages and modern citizens need to appreciate algorithms and computational thinking. Join scientists, researchers, teachers and artists in developing new ways of communicating computational thinking, including computing activities across the curriculum, at every level. CMSC welcomes contributions in forms such as story, dance, art, theatre, any ways to communicate science to the public.
+
+CMSC aims to create activities to teach kids without computers, following the [Computer Science Unplugged](www.csunplugged.org) philosophy. Please enjoy this history and perspective about CS Unplugged in the
+festschrift for Michael R. Fellows's 60th birthday:
+
+Bell, T., Rosamond, F., Casey, N. (2012). [Computer Science Unplugged and Related Projects in Math and Computer Science Popularization](https://doi.org/10.1007/978-3-642-30891-8_18). In: Bodlaender, H.L., Downey, R., Fomin, F.V., Marx, D. (eds) The Multivariate Algorithmic Revolution and Beyond. Lecture Notes in Computer Science, vol 7370. Springer, Berlin, Heidelberg.
 
 The design and analysis of algorithms, modeling, clever information representation, all have the potential to unlock a great amount of creativity. Bring your ideas, your experimental attempts. The atmosphere is casual with a focus on brainstorming.
 CMSC aims to encourage researchers to provide open problems from their area that are accessible to authentic engagement by kids, and to explore ways of mentoring their work. Let’s attract children to open problems, to dare reach for gold. We also seek new ways to show the open, unsolved problems that researchers are pursuing.
