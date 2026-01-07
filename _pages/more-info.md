@@ -20,9 +20,7 @@ There will be several events at CMSC! Here is a first list (more to come):
 
 ## Examples of activities presented
 
-![](/images/cmsc-children.png){: style="float: left; margin-right: 1em; max-width:296px;" }
-
-<br>
+![](/images/cmsc-children.png){: style="float: left; margin-right: 1em; max-width:200px;" }
 
 **Topics**: sorting, algorithm complexity
 
@@ -36,9 +34,7 @@ There will be several events at CMSC! Here is a first list (more to come):
 
 ---
 
-![](/images/dijkstra_table_2.jpg){: style="float: left; margin-right: 1em; max-width:296px;" }
-
-<br>
+![](/images/dijkstra_table_2.jpg){: style="float: left; margin-right: 1em; max-width:200px;" }
 
 **Topics**: graph theory, algorithms
 
