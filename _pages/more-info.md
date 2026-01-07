@@ -23,9 +23,13 @@ There will be several events at CMSC! Here is a first list (more to come):
 ![](/images/cmsc-children.png){: style="float: left; margin-right: 1em; max-width:148px;" }
 
 **Topics**: sorting, algorithm complexity
+
 **Target**: children (8-12 years old)
+
 **Author**: Maarten Löffler 
+
 **Description**: execute two different sorting algorithms, by hand
+
 **Duration**: 30 minutes
 
 ---
@@ -33,9 +37,13 @@ There will be several events at CMSC! Here is a first list (more to come):
 [](/images/dijkstra_table_2.jpg){: style="float: left; margin-right: 1em; max-width:148px;" }
 
 **Topics**: graph theory, algorithms
+
 **Target**: children (8-12 years old)
+
 **Authors**: Riko Jacob and Francesco Silvestri
+
 **Description**: mechanical device to introduce the concepts of graphs and shortest paths and explain Dijkstra’s Algorithm
+
 **Duration**: 30 minutes
 
 
