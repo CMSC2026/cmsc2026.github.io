@@ -30,7 +30,7 @@ author_profile: true
 
 ## Program Committee
 
-- Timothy C. Bell, University of Canterbury, New Zealand
+- Tim Bell, University of Canterbury, New Zealand
 - Sarah Carruther, Vancouver Island University, Canada
 - Valentina Dagiene, Vilnius University, Lithuania
 - Henning Fernau, University of Trier, Germany
