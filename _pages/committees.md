@@ -30,4 +30,25 @@ author_profile: true
 
 ## Program Committee
 
-The members of the Program Committee will be announced soon.
+- Timothy C. Bell, University of Canterbury, New Zealand
+- Sarah Carruther, Vancouver Island University, Canada
+- Valentina Dagiene, Vilnius University, Lithuania
+- Henning Fernau, University of Trier, Germany
+- Bernd Gärtner, ETH Zurich, Switzerland
+- Henry Hickman, University of New South Wales, Australia
+- Thore Husfeldt, IT University of Copenhagen, Denmark
+- Jyothi Krishnan, IT Gandhinagar, India
+- Lukas Lehner, TU Wien, Austria
+- Michael Lodi, University of Bologna, Italy
+- Monica Mattei, International School of Turin, Italy
+- Valia Mitsou, Université Paris Cité, France
+- Matthias Mnich, Hamburg University of Technology, Germany
+- Elena Mumford
+- Rüdiger Reischuk, ITCS, Universität zu Lübeck, Germany
+- Giovanni Righini, University of Milan, Italy
+- Inge Schwank, University of Cologne, Germany
+- Jacqueline Staub, University of Trier, Germany
+- Jay Thakkar, IIT Gandhinagar, India
+- Josef Tkadlec, Charles University, Czechia
+- Sebastian Wild, Philipps-Universität Marburg, Germany
+
