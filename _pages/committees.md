@@ -31,13 +31,15 @@ author_profile: true
 ## Program Committee
 
 - Tim Bell, University of Canterbury, New Zealand
-- Sarah Carruther, Vancouver Island University, Canada
+- Sergio Canazza, University of Padua, Italy
+- Sarah Carruthers, Vancouver Island University, Canada
 - Valentina Dagiene, Vilnius University, Lithuania
 - Henning Fernau, University of Trier, Germany
 - Bernd Gärtner, ETH Zurich, Switzerland
 - Henry Hickman, University of New South Wales, Australia
 - Thore Husfeldt, IT University of Copenhagen, Denmark
 - Jyothi Krishnan, IT Gandhinagar, India
+- Martina Landman, University of Cambridge, United Kingdom
 - Lukas Lehner, TU Wien, Austria
 - Michael Lodi, University of Bologna, Italy
 - Monica Mattei, International School of Turin, Italy
