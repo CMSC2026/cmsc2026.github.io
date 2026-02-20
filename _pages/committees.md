@@ -42,10 +42,11 @@ author_profile: true
 - Martina Landman, University of Cambridge, United Kingdom
 - Lukas Lehner, TU Wien, Austria
 - Michael Lodi, University of Bologna, Italy
+- Zuzana Masárová, ISTA / Grow Trails, Austria
 - Monica Mattei, International School of Turin, Italy
 - Valia Mitsou, Université Paris Cité, France
 - Matthias Mnich, Hamburg University of Technology, Germany
-- Elena Mumford
+- Elena Mumford, Eindhoven, The Netherlands
 - Rüdiger Reischuk, ITCS, Universität zu Lübeck, Germany
 - Giovanni Righini, University of Milan, Italy
 - Inge Schwank, University of Cologne, Germany
