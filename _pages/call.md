@@ -14,6 +14,7 @@ More precisely, CMSC welcomes the following contributions:
 	- Best practice papers/country reports/experience reports
 	- Description of creative products, for instance, dance or song performance
 	- Position/discussion papers
+    - Using art as a vehicle for teaching 
 
 
 - **Poster proposals** up to 3 pages for:
