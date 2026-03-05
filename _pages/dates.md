@@ -6,9 +6,9 @@ author_profile: true
 ---
 - **CMT website open for submissions**: February 1st, 2026
 
-- **Abstract submission first round**: March 6th, 2026
-- **Standard paper submission first round**: March 13th, 2026
-- **Notification of acceptance for papers first round**: April 24th, 2026
+- **Abstract submission first round**: March 13th, 2026 (deadline extended)
+- **Standard paper submission first round**: March 20th, 2026 (deadline extended)
+- **Notification of acceptance for papers first round**: April 30th, 2026
 
 - **Abstract submission second round**: May 29th, 2026
 - **Standard paper submission second round**: June 5th, 2026
