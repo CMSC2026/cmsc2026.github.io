@@ -24,7 +24,7 @@ author_profile: true
 - Jam Ramanujam, The Institute of Mathematical Sciences, Chennai, India
 - Rüdiger Reischuk, University of Lübeck, Germany
 - Eljakim Schrijvers, Eljakim IT, Netherlands (International Chair)
-- Matt Skoss, The Australian Association of Mathematics Teachers, Australia
+- Matt Skoss, Northern Territory Dept. of Education - retired, Australia
 - Verena Specht-Ronique, HLTM Marburg, Germany
 - Brett Stephenson, University of Tasmania, Australia
 
