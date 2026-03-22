@@ -22,6 +22,6 @@
   url: https://www.altamatematica.it/gncs/
   logo: /images/logo/maddmaths.png
 
-# - name: Unione Matematica Italiana
-#   url: https://umi.dm.unibo.it
-#   logo: /images/logo/umi.png
+- name: Unione Matematica Italiana
+  url: https://umi.dm.unibo.it
+  logo: /images/logo/umi.png
