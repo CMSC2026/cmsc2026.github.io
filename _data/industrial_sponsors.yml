@@ -10,6 +10,6 @@
   url: https://www.springer.com
   logo: /images/logo/springer.png
 
-# - name: Yamaha
-#   url: https://it.yamaha.com
-#   logo: /images/logo/yamaha.png
+- name: Yamaha
+  url: https://it.yamaha.com
+  logo: /images/logo/yamaha.png
