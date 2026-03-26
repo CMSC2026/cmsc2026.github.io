@@ -2,9 +2,9 @@
   url: https://www.janestreet.com
   logo: /images/logo/jane-street.png
 
-# - name: Motion Analytica
-#   url: https://www.motionanalytica.com/en/homepage-en/
-#   logo: /images/logo/motion-analytica.png
+- name: Motion Analytica
+  url: https://www.motionanalytica.com/en/homepage-en/
+  logo: /images/logo/motion-analytica.png
 
 - name: Springer
   url: https://www.springer.com
