@@ -10,9 +10,9 @@ author_profile: true
 - <s>**Standard paper submission first round**: March 20th, 2026 (deadline extended)</s>
 - **Notification of acceptance for papers first round**: April 30th, 2026
 
-- <mark style="background-color: yellow">**Abstract submission second round**: May 29th, 2026</mark>
-- <mark style="background-color: yellow">**Standard paper submission second round**: June 5th, 2026</mark>
-- <mark style="background-color: yellow">**Notification of acceptance for papers second round**: July 12th, 2026</mark>
+- <mark style="background-color: yellow"><b>Abstract submission second round</b>: May 29th, 2026</mark>
+- <mark style="background-color: yellow"><b>Standard paper submission second round</b>: June 5th, 2026</mark>
+- <mark style="background-color: yellow"><b>Notification of acceptance for papers second round</b>: July 12th, 2026</mark>
 
 <!-- - **Camera-ready versions of accepted papers**: July 24th, 2026 -->
 

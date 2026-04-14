@@ -5,8 +5,6 @@ permalink: /call/
 author_profile: true
 ---
 
-# Call for Contributions
-
 Authors are invited to submit manuscripts on topics related to the conference's scope (see below). All manuscripts will be peer-reviewed by members of the Programme Committee.
 
 More precisely, CMSC welcomes the following contributions: 
@@ -77,8 +75,6 @@ Please bring a printed poster of the correct size to the conference.
 The Microsoft CMT service was used to manage the peer-review process for this conference. This service was provided free of charge by Microsoft, which covered all expenses, including costs for Azure cloud services, as well as software development and support.
 
 ---
-
-# Committees
 
 ## Program and Organizing Chairs
 
