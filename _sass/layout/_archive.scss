@@ -3,7 +3,6 @@
    ========================================================================== */
 
 .archive {
-  text-align: justify;
   margin-bottom: 2em;
 
   @include breakpoint($medium) {
@@ -51,7 +50,7 @@
 
 /* remove border*/
 .page__content {
-  text-align: justify; !important;
+  text-align: justify;
   
   .archive__item-title {
     margin-top: 1em;
