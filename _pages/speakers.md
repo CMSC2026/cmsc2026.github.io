@@ -22,8 +22,6 @@ author_profile: true
 
 **Short bio**: Neeldhara Misra is a computer scientist and Associate Professor in the Department of Computer Science and Engineering at the Indian Institute of Technology Gandhinagar, India. She received her Ph.D. in Theoretical Computer Science in 2012 from the Institute for Mathematical Sciences. Her research interests are the interplay of structural graph theory and graph algorithms, parameterized complexity, computational perspectives on combinatorial games, voting mechanisms, and fair allocations of resources. Her work has been published in leading international conferences such as SODA, AAAI, and AAMAS. She is also known for her contributions to computer science education and outreach, particularly through initiatives that promote computational thinking and accessible learning.
 
-<br/> <br/> 
-
 **Title**: TBA <br/> 
 **Abstract**: TBA
 

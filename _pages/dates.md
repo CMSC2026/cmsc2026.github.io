@@ -4,27 +4,27 @@ title: "Important Dates"
 permalink: /dates/
 author_profile: true
 ---
-- <s>**CMT website open for submissions**: February 1st, 2026</s>
+- <s><b>CMT website open for submissions</b>: February 1st, 2026</s>
 
-- <s>**Abstract submission first round**: March 13th, 2026 (deadline extended)</s>
-- <s>**Standard paper submission first round**: March 20th, 2026 (deadline extended)</s>
-- **Notification of acceptance for papers first round**: April 30th, 2026
+- <s><b>Abstract submission first round</b>: March 13th, 2026 (deadline extended)</s>
+- <s><b>Standard paper submission first round</b>: March 20th, 2026 (deadline extended)</s>
+- <b>Notification of acceptance for papers first round</b>: April 30th, 2026
 
 - <mark style="background-color: yellow"><b>Abstract submission second round</b>: May 29th, 2026</mark>
 - <mark style="background-color: yellow"><b>Standard paper submission second round</b>: June 5th, 2026</mark>
 - <mark style="background-color: yellow"><b>Notification of acceptance for papers second round</b>: July 12th, 2026</mark>
 
-<!-- - **Camera-ready versions of accepted papers**: July 24th, 2026 -->
+<!-- - <b>Camera-ready versions of accepted papers</b>: July 24th, 2026 -->
 
-- **Poster submission**: August 14th, 2026  
-- **Notification of acceptance for posters**: September 04th, 2026
+- <b>Poster submission</b>: August 14th, 2026  
+- <b>Notification of acceptance for posters</b>: September 04th, 2026
 
-<!-- - - **Registration opening**: April 27th, 2026
-- **Early registration deadline**: July 24th, 2026
-- **Late registration deadline**: September 18th, 2026 -->
+<!-- - - <b>Registration opening</b>: April 27th, 2026
+- <b>Early registration deadline</b>: July 24th, 2026
+- <b>Late registration deadline</b>: September 18th, 2026 -->
 
-- **Main conference**: October 12-14, 2026
-- **Teacher's Day**: October 15, 2026
+- <b>Main conference</b>: October 12-14, 2026
+- <b>Teacher's Day</b>: October 15, 2026
 
 All dates (but the conference dates) are midnight “[anywhere on earth](https://time.is/Anywhere_on_Earth)“.
    
