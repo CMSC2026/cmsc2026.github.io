@@ -5,12 +5,12 @@ permalink: /sponsors/
 author_profile: true
 ---
 
-We are deeply grateful for the generous support of our sponsors, whose contributions made this event possible and accessible to a wider audience.
+We are deeply grateful to our sponsors and supporting partners, whose contributions made this event possible and accessible to a wider audience.
 
 If you want to support CMSC 2026, please contact the Organizing Chairs at [cmsc2026@dei.unipd.it](mailto:cmsc2026@dei.unipd.it).
 
 
-## Academic Sponsors and Institutions
+## Sponsors
 
 <table cellspacing="0" cellpadding="0" class="sponsor-table">
   <thead>
@@ -20,7 +20,7 @@ If you want to support CMSC 2026, please contact the Organizing Chairs at [cmsc2
     </tr>
   </thead>
   <tbody>
-    {% for sponsor in site.data.academic_sponsors %}
+    {% for sponsor in site.data.sponsors %}
     <tr>
       <td>
         <a href="{{ sponsor.url }}" target="_blank" rel="noopener" class="visually-hidden"> {{ sponsor.name }} </a><br/>
@@ -39,7 +39,7 @@ If you want to support CMSC 2026, please contact the Organizing Chairs at [cmsc2
   </tbody>
 </table>
 
-## Industrial Sponsors
+## Supporting Partners 
 
 <table cellspacing="0" cellpadding="0" class="sponsor-table">
   <thead>
@@ -49,12 +49,12 @@ If you want to support CMSC 2026, please contact the Organizing Chairs at [cmsc2
     </tr>
   </thead>
   <tbody>
-    {% for sponsor in site.data.industrial_sponsors %}
+    {% for sponsor in site.data.supporting_partners %}
     <tr>
       <td>
         <a href="{{ sponsor.url }}" target="_blank" rel="noopener" class="visually-hidden"> {{ sponsor.name }} </a><br/>
         <a href="{{ sponsor.url }}" target="_blank" rel="noopener">
-          <img src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.name }} logo" style="max-height:128px;" />
+          <img src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.name }} logo" style="max-height:96px;" />
         </a>
       </td>
       <!--

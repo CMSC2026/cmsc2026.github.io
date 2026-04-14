@@ -21,14 +21,11 @@ main:
   - title: "Speakers"
     url: /speakers/
 
+  - title: "Teacher's Day"
+    url: /teachers-day/
+
   - title: "Sponsors"
     url: /sponsors/
 
-  - title: "Committees"
-    url: /committees/
-
   - title: "Venue"
     url: /venue/
-
-  - title: "More Info"
-    url: /more-info/

@@ -4,15 +4,15 @@ title: "Important Dates"
 permalink: /dates/
 author_profile: true
 ---
-- **CMT website open for submissions**: February 1st, 2026
+- <s>**CMT website open for submissions**: February 1st, 2026</s>
 
-- **Abstract submission first round**: March 13th, 2026 (deadline extended)
-- **Standard paper submission first round**: March 20th, 2026 (deadline extended)
+- <s>**Abstract submission first round**: March 13th, 2026 (deadline extended)</s>
+- <s>**Standard paper submission first round**: March 20th, 2026 (deadline extended)</s>
 - **Notification of acceptance for papers first round**: April 30th, 2026
 
-- **Abstract submission second round**: May 29th, 2026
-- **Standard paper submission second round**: June 5th, 2026
-- **Notification of acceptance for papers second round**: July 12th, 2026
+- <mark style="background-color: yellow">**Abstract submission second round**: May 29th, 2026</mark>
+- <mark style="background-color: yellow">**Standard paper submission second round**: June 5th, 2026</mark>
+- <mark style="background-color: yellow">**Notification of acceptance for papers second round**: July 12th, 2026</mark>
 
 <!-- - **Camera-ready versions of accepted papers**: July 24th, 2026 -->
 

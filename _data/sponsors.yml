@@ -1,0 +1,19 @@
+- name: Dipartimento di Ingegneria dell'Informazione, Università di Padova
+  url: https://www.dei.unipd.it/
+  logo: /images/logo/dei-new-IT.png
+
+- name: Jane Street
+  url: https://www.janestreet.com
+  logo: /images/logo/jane-street.png
+
+- name: MaddMaths! ETS
+  url: https://www.altamatematica.it/gncs/
+  logo: /images/logo/maddmaths.png
+
+- name: Motion Analytica
+  url: https://www.motionanalytica.com/en/homepage-en/
+  logo: /images/logo/motion-analytica.png
+
+- name: Unione Matematica Italiana
+  url: https://umi.dm.unibo.it
+  logo: /images/logo/umi.png
