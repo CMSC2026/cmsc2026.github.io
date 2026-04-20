@@ -11,7 +11,7 @@ author_profile: true
    - <s><b>Pdf of the paper</b>: March 20th, 2026 (deadline extended)</s>
    - <b>Notification of acceptance</b>: April 30th, 2026
 
-- Second round for paper submissions:
+- <mark style="background-color: yellow">Second round for paper submissions:</mark>
    - <mark style="background-color: yellow"><b>Title and abstract of the paper</b>: May 29th, 2026</mark>
    - <mark style="background-color: yellow"><b>Pdf of the paper</b>: June 5th, 2026</mark>
    - <mark style="background-color: yellow"><b>Notification of acceptance</b>: July 12th, 2026</mark>
