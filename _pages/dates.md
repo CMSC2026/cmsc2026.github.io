@@ -6,13 +6,15 @@ author_profile: true
 ---
 - <s><b>CMT website open for submissions</b>: February 1st, 2026</s>
 
-- <s><b>Abstract submission first round</b>: March 13th, 2026 (deadline extended)</s>
-- <s><b>Standard paper submission first round</b>: March 20th, 2026 (deadline extended)</s>
-- <b>Notification of acceptance for papers first round</b>: April 30th, 2026
+- <s>First round for paper submissions:</s>
+   - <s><b>Title and abstract of the paper</b>: March 13th, 2026 (deadline extended)</s>
+   - <s><b>Pdf of the paper</b>: March 20th, 2026 (deadline extended)</s>
+   - <b>Notification of acceptance</b>: April 30th, 2026
 
-- <mark style="background-color: yellow"><b>Abstract submission second round</b>: May 29th, 2026</mark>
-- <mark style="background-color: yellow"><b>Standard paper submission second round</b>: June 5th, 2026</mark>
-- <mark style="background-color: yellow"><b>Notification of acceptance for papers second round</b>: July 12th, 2026</mark>
+- Second round for paper submissions:
+   - <mark style="background-color: yellow"><b>Title and abstract of the paper</b>: May 29th, 2026</mark>
+   - <mark style="background-color: yellow"><b>Pdf of the paper</b>: June 5th, 2026</mark>
+   - <mark style="background-color: yellow"><b>Notification of acceptance</b>: July 12th, 2026</mark>
 
 <!-- - <b>Camera-ready versions of accepted papers</b>: July 24th, 2026 -->
 
