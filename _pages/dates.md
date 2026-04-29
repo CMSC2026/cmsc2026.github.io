@@ -26,7 +26,7 @@ author_profile: true
 - <b>Late registration deadline</b>: September 18th, 2026 -->
 
 - <b>Main conference</b>: October 12-14, 2026
-- <b>Teacher's Day</b>: October 15, 2026
+- <b>Teachers' Day</b>: October 15, 2026
 
 All dates (but the conference dates) are midnight “[anywhere on earth](https://time.is/Anywhere_on_Earth)“.
    
