@@ -14,6 +14,21 @@ author_profile: true
 **Title**: TBA <br/> 
 **Abstract**: TBA
 
+
+---
+
+## Vanesa Guerrero Lozano, Universidad Carlos III de Madrid [[ORCID]](https://orcid.org/0000-0002-6610-7455)
+
+-- ![](/images/speaker-vanesa-guerrero.jpg){: style="float: left; margin-right: 1em; max-width:148px;" }
+
+**Short bio**: Vanesa Guerrero is an Associate Professor in the Department of Statistics at the Universidad Carlos III de Madrid. She obtained her Ph.D. in Mathematics from the Universidad de Sevilla in 2017. Her research lies at the intersection of operations research, statistics, and machine learning, with a focus on integrating mathematical optimization techniques into data analysis models, particularly to enhance interpretability and incorporate desirable structural properties. She has co-authored numerous papers published in renowned journals (e.g. Mathematical Programming, European Journal of Operational Research, or Journal of Multivariate Analysis, among others) with an extensive international network of collaborators. Her work has been recognized with multiple awards,
+including the L’Oréal–UNESCO For Women in Science Award, the Vicent Caselles Prize of the Real Sociedad Matemática Española (RSME), and the Ramiro Melendreras Prize of the Sociedad de Estadística, Investigación Operativa y Ciencia de Datos (SEIO), among others.
+She is actively engaged in the organization of scientific events and in science outreach initiatives, promoting STEM education and public engagement with data science.
+
+**Title**: TBA <br/> 
+**Abstract**: TBA
+
+
 ---
 
 ## Neeldhara Misra, Indian Institute of Technology, Gandhinagar [[ORCID]](https://orcid.org/0000-0003-1727-5388)
@@ -24,27 +39,3 @@ author_profile: true
 
 **Title**: TBA <br/> 
 **Abstract**: TBA
-
-
----
-
-<!-- ## Frances Rosamond, University of Bergen [[ORCID]](https://orcid.org/0000-0002-5097-9929)
-
-![](/images/speaker-frances-rosamond.png){: style="float: left; margin-right: 1em; max-width:148px;" }
-
-**Short bio**: Frances A. Rosamond is a computer scientist and Emeritus Professor in the Department of Informatics at the University of Bergen, Norway. She obtained her Ph.D. from Cornell University in 1981. Her research interests include parameterized complexity, computer science education and teaching, games, and STEAM communication. She has published numerous scientific articles in conferences and journals such as the Journal of Computer and System Sciences, Lecture Notes in Artificial Intelligence, Algorithmica, and Theoretical Computer Science. Rosamond has also been active in promoting gender equality in mathematics, computer science, and other scientific disciplines. For example, from 1986 to 2000, she organized the Sonia Kovalevskia Mathematics Days for girls and faculty when she was Professor of Mathematics at National University in San Diego and a facilitator of the San Diego Science Alliance. She received the University of Newcastle HEEP Equity Award for her efforts to increase the number of women in computer science. She has been a member of the Association for Women in Mathematics since its inception. She was invited to the first "Women and Mathematics" delegation to the People's Republic of China in 1991. She has also served on the board of directors of the Women in Mathematics Education Association and has been active in the American Educational Research Association.
-
-<br/> <br/> 
-
-**Title**: TBA <br/> 
-**Abstract**: TBA
-
---- -->
-
-## TBA
-
-**Short bio**: TBA
-
-**Title**: TBA <br/> 
-**Abstract**: TBA
----
