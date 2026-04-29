@@ -13,7 +13,7 @@ author_profile: true
 
 - <mark style="background-color: yellow">Second round for standard paper submissions:</mark>
    - <mark style="background-color: yellow"><b>Title and abstract of the paper</b>: May 29th, 2026</mark>
-   - <mark style="background-color: yellow"><b>Pdf of the paper</b>: June 5th, 2026</mark>
+   - <mark style="background-color: yellow"><b>PDF of the full paper</b>: June 5th, 2026</mark>
    - <mark style="background-color: yellow"><b>Notification of acceptance</b>: July 12th, 2026</mark>
 
 <!-- - <b>Camera-ready versions of accepted papers</b>: July 24th, 2026 -->
