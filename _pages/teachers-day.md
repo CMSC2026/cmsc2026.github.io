@@ -25,6 +25,13 @@ The detailed program is still being finalized, but it will include plenary prese
 
 ---
 
+| **Speaker** | **Titolo/Title** | **Abstract** | **Linguaggio di erogazione/Delivery language** |
+|-------------|------------------|--------------|-----------------------------------------------|
+| ![](/images/teachers-day-maria-francesca-carfora.jpg){: style="float: left; margin-right: 1em; max-width:100px;" } <br> [Maria Francesca Carfora](https://sites.google.com/view/francescacarfora)<br> Consiglio Nazionale delle Ricerche, IAC | TBA | TBA | Italiano |
+| ![](/images/teachers-day-lorella-carimali.jpg){: style="float: left; margin-right: 1em; max-width:100px;" } <br> [Lorella Carimali](https://lorellacarimali.it) | TBA | TBA | Italiano |
+| ![](/images/teachers-day-frances-rosamond.jpeg){: style="float: left; margin-right: 1em; max-width:100px;" } <br>[Frances Rosamond](https://en.wikipedia.org/wiki/Frances_A._Rosamond)<br> University of Bergen, Norway | TBA  | TBA | English |
+| 
+
 
 <!-- ## Frances Rosamond, University of Bergen [[ORCID]](https://orcid.org/0000-0002-5097-9929)
 
