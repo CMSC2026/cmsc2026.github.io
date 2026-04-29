@@ -7,7 +7,7 @@ author_profile: true
 
 *Versione italiana*
 
-Giovedì 15 ottobre 2026, ultimo giorno del convegno, ci sarà un workshop ibrido, dedicato a uno scambio reciproco di idee tra ricercatori e ricercatrici partecipanti di CMSC 2026 e insegnanti delle scuole primarie e secondarie di primo grado.
+Giovedì 15 ottobre 2026, ultimo giorno del convegno, ci sarà un **workshop ibrido sulla creatività**, per uno scambio reciproco di idee tra ricercatori e ricercatrici partecipanti di CMSC 2026 e insegnanti delle scuole primarie e secondarie di primo grado.
 
 Il programma dettagliato è ancora in fase di definizione, però includerà presentazioni plenarie, tutorial e laboratori interattivi di interesse per i e le docenti. Tra queste attività, saranno inclusi anche alcuni articoli scientifici accettati per la conferenza di CMSC 2026, dando la possibilità agli autori e alle autrici di presentare il proprio lavoro e illustrare come possa essere utilizzato o adattato per un'attività in classe. Per ogni attività, sarà specificato se la lingua di erogazione sarà italiano o inglese.
 
@@ -17,7 +17,7 @@ La **partecipazione per i e le docenti è gratuita**, con iscrizione obbligatori
 
 *English version*
 
-On the final day of the conference, Thursday, October 15, 2026, there will be a hybrid workshop for the mutual exchange of ideas between CMSC 2026 researchers and primary and secondary school teachers.
+On the final day of the conference, Thursday, October 15, 2026, there will be a **hybrid workshop on creativity** for the mutual exchange of ideas between CMSC 2026 researchers and primary and secondary school teachers.
 
 The detailed program is still being finalized, but it will include plenary presentations, tutorials, and interactive workshops of interest to teachers. These activities will also include some scientific articles accepted for the CMSC 2026 conference, allowing authors to present their work and illustrate how it can be used or adapted for a classroom activity. For each activity, it will be specified whether the delivery language will be Italian or English.
 
