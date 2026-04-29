@@ -19,7 +19,7 @@ author_profile: true
 
 ## Vanesa Guerrero Lozano, Universidad Carlos III de Madrid [[ORCID]](https://orcid.org/0000-0002-6610-7455)
 
--- ![](/images/speaker-vanesa-guerrero.jpg){: style="float: left; margin-right: 1em; max-width:148px;" }
+![](/images/speaker-vanesa-guerrero.jpg){: style="float: left; margin-right: 1em; max-width:148px;" }
 
 **Short bio**: Vanesa Guerrero is an Associate Professor in the Department of Statistics at the Universidad Carlos III de Madrid. She obtained her Ph.D. in Mathematics from the Universidad de Sevilla in 2017. Her research lies at the intersection of operations research, statistics, and machine learning, with a focus on integrating mathematical optimization techniques into data analysis models, particularly to enhance interpretability and incorporate desirable structural properties. She has co-authored numerous papers published in renowned journals (e.g. Mathematical Programming, European Journal of Operational Research, or Journal of Multivariate Analysis, among others) with an extensive international network of collaborators. Her work has been recognized with multiple awards,
 including the L’Oréal–UNESCO For Women in Science Award, the Vicent Caselles Prize of the Real Sociedad Matemática Española (RSME), and the Ramiro Melendreras Prize of the Sociedad de Estadística, Investigación Operativa y Ciencia de Datos (SEIO), among others.
