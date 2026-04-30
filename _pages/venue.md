@@ -127,6 +127,6 @@ Bonus tip: for a very special local coffee, try *Pedrocchino* at Bar Pedrocchi.
 
 ## Childcare in the nearby
 
-Unfortunately, we cannot offer or organize any dedicated childcare services ourselves. Nonetheless, we suggest contacting [Blank Space](https://www.blankspacepadova.it/), an indoor play space just 700 meters from the conference room, designed for young children (ages 0-8) and their families. The staff speaks English.
+Unfortunately, we cannot offer or organize any dedicated childcare services ourselves. Nonetheless, we suggest contacting [Blank Space](https://www.blankspacepadova.it/), an indoor play space just 700 meters from the conference room, designed for young children (ages 0-10) and their families. The staff speaks English.
 
-Interested participants should [contact Blank Space](mailto:info@blankspacepadova.it) themselves by mid-September at the latest, so that Blank Space can organize in time for the conference. Please refer to the CMSC 2026 conference in the email.
+Interested participants should [contact Blank Space](mailto:info@blankspacepadova.it) themselves by September 20, 2026, at the latest, so that Blank Space can organize in time for the conference. Please refer to the CMSC 2026 conference in the email.

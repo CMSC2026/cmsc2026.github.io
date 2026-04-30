@@ -21,9 +21,10 @@ author_profile: true
 - <b>Poster submission</b>: August 14th, 2026  
 - <b>Notification of acceptance for posters</b>: September 04th, 2026
 
-<!-- - - <b>Registration opening</b>: April 27th, 2026
-- <b>Early registration deadline</b>: July 24th, 2026
-- <b>Late registration deadline</b>: September 18th, 2026 -->
+ - <b>Registration CMSC conference opening</b>: TBA
+ - <mark style="background-color: yellow"><b>Registration Teachers' Day opening</b>: April 30th, 2026</mark>
+ - <b>Early registration deadline</b>: July 24th, 2026
+ - <b>Late registration deadline</b>: September 18th, 2026
 
 - <b>Main conference</b>: October 12-14, 2026
 - <b>Teachers' Day</b>: October 15, 2026

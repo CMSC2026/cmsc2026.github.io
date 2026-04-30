@@ -11,7 +11,7 @@ Giovedì 15 ottobre 2026, ultimo giorno del convegno, ci sarà un **workshop ibr
 
 Il programma dettagliato è ancora in fase di definizione, però includerà presentazioni plenarie, tutorial e laboratori interattivi di interesse per i e le docenti. Tra queste attività, saranno inclusi anche alcuni articoli scientifici accettati per la conferenza di CMSC 2026, dando la possibilità agli autori e alle autrici di presentare il proprio lavoro e illustrare come possa essere utilizzato o adattato per un'attività in classe. Per ogni attività, sarà specificato se la lingua di erogazione sarà italiano o inglese.
 
-La **partecipazione per i e le docenti è gratuita**, con iscrizione obbligatoria entro il **18 settembre 2026**, tramite la compilazione del seguente modulo: **[Registrazione al Teachers' Day]()** -- *Max. 50 posti disponibili; logica FIFO*.
+La **partecipazione per i e le docenti è gratuita**, con iscrizione obbligatoria entro il **18 settembre 2026**, tramite la compilazione del seguente modulo: **[Registrazione al Teachers' Day](https://forms.gle/1uckWV2vdgQav23bA)** -- *Max. 50 posti disponibili; logica FIFO*.
 
 ---
 
@@ -21,7 +21,7 @@ On the final day of the conference, Thursday, October 15, 2026, there will be a 
 
 The detailed program is still being finalized, but it will include plenary presentations, tutorials, and interactive workshops of interest to teachers. These activities will also include some scientific articles accepted for the CMSC 2026 conference, allowing authors to present their work and illustrate how it can be used or adapted for a classroom activity. For each activity, it will be specified whether the delivery language will be Italian or English.
 
-**Participation for teachers is free**, but registration is required by **September 18, 2026**. Please complete the following form: **[Teachers' Day Registration Form]()** -- *Maximum of 50 places available; first-come, first-served logic*.
+**Participation for teachers is free**, but registration is required by **September 18, 2026**. Please complete the following form: **[Teachers' Day Registration Form](https://forms.gle/1uckWV2vdgQav23bA)** -- *Maximum of 50 places available; first-come, first-served logic*.
 
 ---
 
