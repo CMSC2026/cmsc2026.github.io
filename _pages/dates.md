@@ -15,14 +15,13 @@ author_profile: true
    - <mark style="background-color: yellow"><b>Title and abstract of the paper</b>: May 29th, 2026</mark>
    - <mark style="background-color: yellow"><b>PDF of the full paper</b>: June 5th, 2026</mark>
    - <mark style="background-color: yellow"><b>Notification of acceptance</b>: July 12th, 2026</mark>
-
 <!-- - <b>Camera-ready versions of accepted papers</b>: July 24th, 2026 -->
 
 - <b>Poster submission</b>: August 14th, 2026  
 - <b>Notification of acceptance for posters</b>: September 04th, 2026
 
- - <b>Registration CMSC conference opening</b>: TBA
- - <mark style="background-color: yellow"><b>Registration Teachers' Day opening</b>: April 30th, 2026</mark>
+ - <b>Main conference registration opening</b>: TBA
+ - <mark style="background-color: yellow"><b>RTeachers' Day registration opening</b>: April 30th, 2026</mark>
  - <b>Early registration deadline</b>: July 24th, 2026
  - <b>Late registration deadline</b>: September 18th, 2026
 
