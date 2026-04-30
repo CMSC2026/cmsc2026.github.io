@@ -21,7 +21,7 @@ author_profile: true
 - <b>Notification of acceptance for posters</b>: September 04th, 2026
 
  - <b>Main conference registration opening</b>: TBA
- - <mark style="background-color: yellow"><b>RTeachers' Day registration opening</b>: April 30th, 2026</mark>
+ - <mark style="background-color: yellow"><b>Teachers' Day registration opening</b>: April 30th, 2026</mark>
  - <b>Early registration deadline</b>: July 24th, 2026
  - <b>Late registration deadline</b>: September 18th, 2026
 
