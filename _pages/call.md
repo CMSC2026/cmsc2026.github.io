@@ -9,7 +9,7 @@ Authors are invited to submit manuscripts on topics related to the conference's 
 
 More precisely, CMSC welcomes the following contributions: 
 
-- **Standard papers** from 3 to 12 pages; the papers should be in one of the following categories:
+- **Standard papers** from 4 to 12 pages; the papers should be in one of the following categories:
 	- Research papers (e.g., empirical, qualitative, quantitative, theory building, research methods, comparative studies, transferability of methods and results from other disciplines)
 	- Best practice papers/country reports/experience reports
 	- Description of creative products, for instance, dance or song performance
