@@ -1,14 +1,15 @@
 ---
 layout: archive
-title: "Sponsors"
-permalink: /sponsors/
+title: "Support"
+permalink: /support/
 author_profile: true
 ---
 
 We are deeply grateful to our sponsors and supporting partners, whose contributions made this event possible and accessible to a wider audience.
 
-If you want to support CMSC 2026, please contact the Organizing Chairs at [cmsc2026@dei.unipd.it](mailto:cmsc2026@dei.unipd.it).
+CMSC 2026 is developed in collaboration with **MATHEMATICS WITHOUT BORDERS**, an international education equity initiative sponsored by the [Rotary Club of Taree, District 9660](https://www.tareerotary.org.au), and designed to improve access to computational thinking and STEM education for underrepresented groups, particularly women, early-career researchers, and participants from developing countries. If you want to support the initiative, have a look [here](https://directory.rawcs.com.au/89-2025-26).
 
+For any further information, please contact the Organizing Chairs at [cmsc2026@dei.unipd.it](mailto:cmsc2026@dei.unipd.it).
 
 ## Sponsors
 
@@ -25,7 +26,7 @@ If you want to support CMSC 2026, please contact the Organizing Chairs at [cmsc2
       <td>
         <a href="{{ sponsor.url }}" target="_blank" rel="noopener" class="visually-hidden"> {{ sponsor.name }} </a><br/>
         <a href="{{ sponsor.url }}" target="_blank" rel="noopener">
-          <img src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.name }} logo" style="max-height:128px;" />
+          <img src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.name }} logo" style="max-width:200px;" />
         </a>
       </td>
       <!--
@@ -53,9 +54,9 @@ If you want to support CMSC 2026, please contact the Organizing Chairs at [cmsc2
     <tr>
       <td>
         <a href="{{ sponsor.url }}" target="_blank" rel="noopener" class="visually-hidden"> {{ sponsor.name }} </a><br/>
-        <a href="{{ sponsor.url }}" target="_blank" rel="noopener">
+        <!-- <a href="{{ sponsor.url }}" target="_blank" rel="noopener">
           <img src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.name }} logo" style="max-height:96px;" />
-        </a>
+        </a> -->
       </td>
       <!--
       <td>
