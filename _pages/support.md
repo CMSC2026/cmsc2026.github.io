@@ -53,7 +53,7 @@ For any further information, please contact the Organizing Chairs at [cmsc2026@d
     {% for sponsor in site.data.supporting_partners %}
     <tr>
       <td>
-        <a href="{{ sponsor.url }}" target="_blank" rel="noopener" class="visually-hidden"> {{ sponsor.name }} </a><br/>
+        <a href="{{ sponsor.url }}" target="_blank" rel="noopener"> {{ sponsor.name }} </a><br/>
         <!-- <a href="{{ sponsor.url }}" target="_blank" rel="noopener">
           <img src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.name }} logo" style="max-height:96px;" />
         </a> -->
