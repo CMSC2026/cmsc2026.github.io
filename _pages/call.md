@@ -42,7 +42,7 @@ The main topics of the conference include, but are not limited to:
 - Education in conflict-affected areas
 
 ## Accepted Contributions
-For all accepted contributions, we expect at least one author to attend the conference to present it. 
+For all accepted contributions, we expect at least one author to register and attend the conference to present it. 
 Given the creative nature of CMSC, you will have a free choice of how to present your work, as long as it fits the
 schedule and conference locations. We encourage authors to contact the organizers before the submission for inquiries about special requirements of the presentation.
 Possible formats include, but are not limited to:
@@ -73,6 +73,9 @@ Please bring a printed poster of the correct size to the conference.
 
 ### Submission Platform
 The Microsoft CMT service was used to manage the peer-review process for this conference. This service was provided free of charge by Microsoft, which covered all expenses, including costs for Azure cloud services, as well as software development and support.
+
+## Registration
+More detail on the registration fee and procedure will appear by the end of June.
 
 ---
 
