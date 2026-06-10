@@ -13,6 +13,8 @@ Il programma dettagliato è ancora in fase di definizione, però includerà pres
 
 La **partecipazione per i e le docenti è gratuita**, con iscrizione obbligatoria entro il **18 settembre 2026**, tramite la compilazione del seguente modulo: **[Registrazione al Teachers' Day](https://forms.gle/1uckWV2vdgQav23bA)** -- *Max. 50 posti disponibili; logica FIFO*.
 
+[Poster ufficiale](/files/CMSC2026-TeachersDay-PosterIT.pdf)
+
 ---
 
 *English version*
