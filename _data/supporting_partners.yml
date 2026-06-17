@@ -10,6 +10,10 @@
   url: http://www.bici.eu/organization/index.html
   logo: /images/logo/bici.jpg
 
+- name: CINI Scuola
+  url: https://www.itadinfo.it/
+  logo: /images/logo/cini-scuola.png
+
 - name: Istituto Nazionale di Alta Matematica “Francesco Severi” – Gruppo Nazionale per il Calcolo Scientifico
   url: https://www.altamatematica.it/gncs/
   logo: /images/logo/indam-gncs.png
