@@ -25,8 +25,11 @@ author_profile: true
 including the L’Oréal–UNESCO For Women in Science Award, the Vicent Caselles Prize of the Real Sociedad Matemática Española (RSME), and the Ramiro Melendreras Prize of the Sociedad de Estadística, Investigación Operativa y Ciencia de Datos (SEIO), among others.
 She is actively engaged in the organization of scientific events and in science outreach initiatives, promoting STEM education and public engagement with data science.
 
-**Title**: TBA <br/> 
-**Abstract**: TBA
+**Title**: Mathematics beyond the classroom: two experiences in science communication <br/> 
+**Abstract**: Creative science communication can play a key role in making mathematics more accessible, relevant, and socially meaningful for young people. This talk presents two outreach initiatives developed in Spain that use different approaches to foster scientific curiosity, critical thinking, and awareness of the opportunities offered by higher education.<br/>
+The first project, Data Science Gymkhana, is an annual activity launched in 2020 within the STEM4Girls program at Universidad Carlos III de Madrid. Designed for secondary school students, the Gymkhana promotes data literacy and the scientific method through collaborative problem-solving. Each edition focuses on one of the United Nations Sustainable Development Goals, combining a keynote talk by a researcher with hands-on data analysis challenges that encourage participants to explore how mathematical and statistical tools can contribute to addressing real-world societal issues.<br/>
+The second initiative, Your Face Sounds Familiar, is an outreach program developed by researchers from Universidad de Sevilla and Universidad Carlos III de Madrid to bring science and the university experience closer to students living in rural areas. Through interactive sessions led by researchers from diverse disciplines, including mathematics, the project introduces participants to academic careers, showcases the role of research in solving contemporary problems, and seeks to reduce geographical and social barriers that may discourage young people from pursuing higher education.<br/>
+Although they target different contexts, both projects share a common goal: to present mathematics not as an abstract discipline but as a powerful tool for understanding the world, making informed decisions, and creating opportunities. The talk will describe the design of these initiatives, discuss the lessons learned from their implementation, and reflect on how creative dissemination activities can broaden participation in the mathematical sciences and inspire the next generation of students.
 
 
 ---
