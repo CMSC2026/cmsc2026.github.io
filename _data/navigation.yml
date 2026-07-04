@@ -15,6 +15,9 @@ main:
   - title: "Call"
     url: /call/
 
+  - title: "Registration"
+    url: /registration/
+
   - title: "Schedule"
     url: /schedule/
 
