@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Registration to the conference"
+title: "Registration"
 permalink: /registration/
 author_profile: true
 ---
-
-# Registration
 
 The registration fees for CMSC are the following:
 - Early registation 155€ until August 28, 2026.
