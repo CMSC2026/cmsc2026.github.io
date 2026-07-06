@@ -11,8 +11,10 @@ author_profile: true
 
 **Short bio**: Timothy C. Bell is a computer scientist and Professor at the Faculty of Engineering of the University of Canterbury, New Zealand. He received his Ph.D. in 1986 from the University of Canterbury, New Zealand. His research interests include computer science education, computer music, and text compression. His work has been published in various international journals and conferences, including IEEE Transactions on Information Theory, ACM Transactions on Computing Education, IEEE Transactions on Communications, and Software Practice and Experience. He is known for developing, together with Michael Fellows and Ian Witten, the Computer Science Unplugged project, a series of activities for teaching computer science and the underlying mathematics without the use of computers. Computer Science Unplugged was sponsored by Google in 2007. In 2018, Bell received the SIGCSE Award for his “Outstanding Contribution to Computer Science Education.” In 2024, he was appointed a Companion of the New Zealand Order of Merit for services to computer science education.
 
-**Title**: TBA <br/> 
-**Abstract**: TBA
+**Title**: Reflections on 30+ years of CS Unplugged <br/> 
+**Abstract**: CS Unplugged emerged from independent efforts by Mike Fellows and Tim Bell in the late 1980s. Following their first meeting in 1992, these ideas developed into CS Unplugged, which was launched around 1996. Thirty years later, the unplugged approach is used internationally, discussed in hundreds of research papers, and embedded in school curricula around the world. Remarkably, many of the original activities developed in the 1990s remain as relevant today as ever.<br/>
+Although educators have long recognised the power of unplugged activities to engage learners, understanding why they work has been a longer journey. Research over the past three decades has shed light not only on the strengths of the unplugged approach, but also on its limitations and on how it can be used most effectively.</br>
+In this talk, I reflect on the history of CS Unplugged, the debates and controversies that have shaped its development, and what we now know about the learning processes that occur when wide-eyed students encounter computer science through unplugged activities.
 
 
 ---
