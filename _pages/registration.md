@@ -9,7 +9,7 @@ The registration fees for CMSC 2026 are the following:
 - Early registration 155€ until August 28, 2026.
 - Late registration 200€ from August 29, 2026.
 
-Link: to be added.
+Registration link: [here](https://www.unismart.it/en/cmsc-2026/)
 
 The registration includes:
 - Attendance to the conference and to the Teachers' Day;
