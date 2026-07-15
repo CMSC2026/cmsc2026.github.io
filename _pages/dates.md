@@ -17,7 +17,7 @@ author_profile: true
    - <mark style="background-color: yellow"><b>Notification of acceptance</b>: July 14th, 2026</mark>
 <!-- - <b>Camera-ready versions of accepted papers</b>: July 24th, 2026 -->
 
-- <mark style="background-color: yellow"><b>Poster submission</b>: August 14th, 2026</mark>
+- <mark style="background-color: yellow"><b>Poster submission</b>: August 15th, 2026</mark>
 - <b>Notification of acceptance for posters</b>: September 04th, 2026
 
  - <b>Main conference registration opening</b>: July 04th, 2026
