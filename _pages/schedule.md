@@ -18,7 +18,7 @@ Nevertheless, there will be several events at CMSC! Here is a first list (more t
 
 ---
 
-**List of accepted papers**
+**List of accepted papers (in alphabetical order by first author)**
 
 - Valeria Andriano, Monica Barbero, Matteo Bramardi, and Walter Dambrosio. *Integrating Immersive Technologies into Secondary Mathematics: from AR Applications to Teachers’ Training*
 - Laura Antonelli and Maria Francesca Carfora. *Genius: Enhancing Mathematical Discovery through Teamwork and Play*
@@ -42,9 +42,9 @@ with theoretical and algorithmic implications*
 - Antonio Rodà. *The Fairness Puzzle: Unplugged Activities for Discovering Why Fair AI Is Hard*
 - Christophe Stammet. *Hands-On Methods for Teaching about Generative AI*
 
---
+---
 
-**List of accepted posters**
+**List of accepted posters (in alphabetical order by first author)**
 
 TBA
 
