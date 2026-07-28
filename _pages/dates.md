@@ -22,7 +22,7 @@ author_profile: true
 
  - <b>Main conference registration opening</b>: July 04th, 2026
  - <mark style="background-color: yellow"><b>Teachers' Day registration opening</b>: April 30th, 2026</mark>
- - <b>Early registration deadline</b>: July 26th, 2026
+ - <b>Early registration deadline</b>: September 08th, 2026
  - <b>Late registration deadline</b>: September 18th, 2026
 
 - <b>Main conference</b>: October 12-14, 2026
