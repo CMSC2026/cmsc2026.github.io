@@ -20,6 +20,15 @@ redirect_from:
 
 We are pleased to invite you to the 8th edition of the international conference **Creative Mathematical Sciences Communication**, which will be held at the Department of Information Engineering (DEI) of the University of Padova, Italy, from October 12 to October 15, 2026.
 
+---
+
+<mark style="background-color: yellow"><b>News</b></mark>
+
+- **July 30th, 2026**: As part of diversity and inclusion efforts, CMSC 2026 is happy to provide some grants to lower barriers of access to the conference. The grants are intended for students or postdocs for whom attending the conference would cause a financial burden. We will give priority, in order, to: authors of accepted papers, presenters of posters, attendees. Please send us an email to cmsc2026@dei.unipd.it by August 25th, 2026. We will notify grant assignment by September 2nd.
+- **July 28th, 2026**: The [list of accepted papers](/schedule/) is available.
+- **July**: Registration is [open](/registration/)!
+
+---
 
 ## About CMSC
 
