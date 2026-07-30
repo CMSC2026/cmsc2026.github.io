@@ -26,7 +26,8 @@ We are pleased to invite you to the 8th edition of the international conference 
 
 - **July 30th, 2026**: As part of diversity and inclusion efforts, CMSC 2026 is happy to provide some grants to lower barriers of access to the conference. The grants are intended for students or postdocs for whom attending the conference would cause a financial burden. We will give priority, in order, to: authors of accepted papers, presenters of posters, attendees. Please send us an email to cmsc2026@dei.unipd.it by August 25th, 2026. We will notify grant assignment by September 2nd.
 - **July 28th, 2026**: The [list of accepted papers](/schedule/) is available.
-- **July**: Registration is [open](/registration/)!
+- **July 04th, 2026**: [Conference registration](/registration/) is [open]!
+- **April 30th, 2026**: [Teachers' Day](/teachers-day) registration is open!
 
 ---
 
