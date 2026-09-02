@@ -303,7 +303,7 @@ The program includes include invited plenary presentations and workshops, as tut
         Federico Malucelli<br>
         Politecnico di Milano, Italy
       </td>
-      <td>TBA</td>
+      <td>Can we use shortest paths to make decisions?<br>The example of a playful scheduling problem</td>
       <td>
         We will propose a simple scheduling problem. The problem consist in deciding the minimum
         time sequence of a bridge crossing. The workshop may involve a physical activity by groups
