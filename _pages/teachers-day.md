@@ -302,7 +302,7 @@ The program includes include invited plenary presentations and workshops, as tut
       <td>
         Laura Antonelli<br>
         and<br>
-        Maria Francesca Carfora</a><br>
+        Maria Francesca Carfora<br>
         Consiglio Nazionale delle Ricerche,<br>
         Istituto per le Applicazioni del Calcolo “Mauro Picone”, Italy
       </td>
