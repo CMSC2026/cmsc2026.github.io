@@ -222,25 +222,26 @@ The program includes include invited plenary presentations and workshops, as tut
     </tr>
 
     <tr>
-      <td>15:00 – 15:30</td>
+      <td>15:00 – 15:40</td>
       <td>Workshop</td>
       <td>
-        Federico Malucelli<br>
-        Politecnico di Milano, Italy
+        Laura Antonelli<br>
+        and<br>
+        Maria Francesca Carfora<br>
+        Consiglio Nazionale delle Ricerche,<br>
+        Istituto per le Applicazioni del Calcolo “Mauro Picone”, Italy
       </td>
-      <td>TBA</td>
+      <td>GENIUS</td>
       <td>
-        We will propose a simple scheduling problem. The problem consist in deciding the minimum
-        time sequence of a bridge crossing. The workshop may involve a physical activity by groups
-        of 4 persons that will mimic the bridge crossing. After finding the solution intuitively,
-        we will validate it through the use of a shortest path model, thus taking advantage of the
-        model discussed during the conference.
+        GENIUS is a collaborative mathematical game designed to engage participants through riddles
+        and problem-solving activities covering different areas of mathematics.
       </td>
       <td>Italiano</td>
     </tr>
+    <tr>
 
     <tr>
-      <td>15:30 – 16:05</td>
+      <td>15:40 – 16:15</td>
       <td><strong>Invited</strong></td>
       <td>
         <img src="/images/teachers-day-lorella-carimali.jpg"
@@ -272,12 +273,12 @@ The program includes include invited plenary presentations and workshops, as tut
     </tr>
 
     <tr>
-      <td>16:05 – 16:35</td>
+      <td>16:15 – 16:45</td>
       <td colspan="5">Coffee break</td>
     </tr>
 
     <tr>
-      <td>16:35 – 17:15</td>
+      <td>16:45 – 17:25</td>
       <td>Workshop</td>
       <td>
         Neha Garg<br>
@@ -296,20 +297,19 @@ The program includes include invited plenary presentations and workshops, as tut
       <td>English</td>
     </tr>
 
-    <tr>
-      <td>17:15 – 17:55</td>
+      <td>17:25 – 17:55</td>
       <td>Workshop</td>
       <td>
-        Laura Antonelli<br>
-        and<br>
-        Maria Francesca Carfora<br>
-        Consiglio Nazionale delle Ricerche,<br>
-        Istituto per le Applicazioni del Calcolo “Mauro Picone”, Italy
+        Federico Malucelli<br>
+        Politecnico di Milano, Italy
       </td>
-      <td>GENIUS</td>
+      <td>TBA</td>
       <td>
-        GENIUS is a collaborative mathematical game designed to engage participants through riddles
-        and problem-solving activities covering different areas of mathematics.
+        We will propose a simple scheduling problem. The problem consist in deciding the minimum
+        time sequence of a bridge crossing. The workshop may involve a physical activity by groups
+        of 4 persons that will mimic the bridge crossing. After finding the solution intuitively,
+        we will validate it through the use of a shortest path model, thus taking advantage of the
+        model discussed during the conference.
       </td>
       <td>Italiano</td>
     </tr>
