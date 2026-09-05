@@ -97,7 +97,7 @@ The program includes include invited plenary presentations and workshops, as tut
         University of Bologna, Italy
       </td>
       <td>Grucce e cannucce: algoritmi unplugged a costo (quasi) zero per il primo ciclo</td>
-      <td>TBA</td>
+      <td>In questo laboratorio sperimenteremo due attività unplugged a costo quasi zero per introdurre gli algoritmi nel primo ciclo. Con una gruccia usata come bilancia cercheremo il più pesante fra alcuni sacchetti; con delle cannucce colorate, parzialmente nascoste alla vista, affronteremo invece un problema di ordinamento. Lavorando in piccoli gruppi, inventeremo e confronteremo strategie, ragionando su un’idea fondamentale dell’informatica: un algoritmo deve essere una procedura precisa e non ambigua rispetto a uno specifico esecutore. Vedremo infine come proseguire le attività al computer e presenteremo una guida (PDF liberamente scaricabile) per docenti del primo ciclo, con attività, approfondimenti disciplinari e suggerimenti didattici per insegnare informatica anche senza una formazione specialistica.</td>
       <td>Italiano</td>
     </tr>
 
