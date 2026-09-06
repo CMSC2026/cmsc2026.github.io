@@ -249,7 +249,7 @@ The program includes include invited plenary presentations and workshops, as tut
              alt="Lorella Carimali">
         <br>
         <a href="https://lorellacarimali.it">Lorella Carimali</a><br>
-        Liceo Scientifico Vittorio Veneto, Milan, Italy
+        Dirigente Tecnico per le STEM, Ministero dell'Istruzione e del Merito, Italy
       </td>
       <td>Prima della dimostrazione: la matematica come arte dell’immaginare</td>
       <td>
