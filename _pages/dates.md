@@ -17,13 +17,14 @@ author_profile: true
    - <s><b>Notification of acceptance</b>: July 14th, 2026</s>
    - <s><b>Camera-ready versions of accepted papers</b>: July 26th, 2026</s>
 
-- <mark style="background-color: yellow"><b>Poster submission</b>: <s>August 15th, 2026</s> August 23rd, 2026</mark>
-- <b>Notification of acceptance for posters</b>: September 04th, 2026
+- <s><b>Poster submission</b>: August 15th, 2026 August 23rd, 2026</s>
+- <s><b>Notification of acceptance for posters</b>: September 04th, 2026</s>
 
- - <b>Main conference registration opening</b>: July 04th, 2026
- - <mark style="background-color: yellow"><b>Teachers' Day registration opening</b>: April 30th, 2026</mark>
+ - <s><b>Main conference registration opening</b>: July 04th, 2026</s>
+ - <s><b>Teachers' Day registration opening</b>: April 30th, 2026</s>
+ - <b>Teachers' Day registration deadline</b>: October 02nd, 2026
  - <b>Early registration deadline</b>: September 08th, 2026
- - <b>Late registration deadline</b>: September 18th, 2026
+ - <b>Late registration deadline</b>: October 04th, 2026
 
 - <b>Main conference</b>: October 12-14, 2026
 - <b>Teachers' Day</b>: October 15, 2026
