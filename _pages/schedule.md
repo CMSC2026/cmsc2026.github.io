@@ -16,6 +16,11 @@ There will be several events at CMSC, including:
 - **[Teachers' Day (October 15th, 2026)](/teachers-day/)**
 
 <table>
+	<colgroup>
+    <col style="width: 15%;">
+    <col style="width: 55%;">
+    <col style="width: 40%;">
+  </colgroup>
   <thead>
     <tr>
       <th>Time</th>
@@ -55,17 +60,17 @@ There will be several events at CMSC, including:
     <tr>
       <td>11:00 – 11:25</td>
       <td>Interrelations and Overlaps between Computational and Algebraic Thinking: A Cross-National Study in Schools</td>
-      <td>Daranee Lehtonen, Turku Research Institute for Learning Analytics, University of Turku; Esa Satomaa, Turku Research Institute for Learning Analytics, University of Turku; Valentina Dagienė, Institute of Educational Sciences, Vilnius University; Javier Bilbao, University of the Basque Country; Tuğba Öztürk, Ankara University; Marika Parviainen, Turku Research Institute for Learning Analytics, University of Turku</td>
+      <td>Daranee Lehtonen, Turku Research Institute for Learning Analytics, University of Turku<br>Esa Satomaa, Turku Research Institute for Learning Analytics, University of Turku<br>Valentina Dagienė, Institute of Educational Sciences, Vilnius University<br>Javier Bilbao, University of the Basque Country<br>Tuğba Öztürk, Ankara University<br>Marika Parviainen, Turku Research Institute for Learning Analytics, University of Turku</td>
     </tr>
     <tr>
       <td>11:25 – 11:50</td>
       <td>From Problem Solving to Research Thinking: A Graph-Theoretic Whodunit</td>
-      <td>Lucas Lorieau, CNRS, LIMOS, Université Clermont Auvergne; Nicolas Schivre, LIMOS, Université Clermont Auvergne</td>
+      <td>Lucas Lorieau, CNRS, LIMOS, Université Clermont Auvergne<br>Nicolas Schivre, LIMOS, Université Clermont Auvergne</td>
     </tr>
     <tr>
       <td>11:50 – 12:15</td>
       <td>Playing the Odds: Bids, Belief, and Probabilistic Reasoning in Indian Classrooms</td>
-      <td>Neha Garg, IIT Gandhinagar; Jyothi Krishnan, IIT Gandhinagar</td>
+      <td>Neha Garg, IIT Gandhinagar<br>Jyothi Krishnan, IIT Gandhinagar</td>
     </tr>
     <tr>
       <td>12:15 – 14:15</td>
@@ -80,7 +85,7 @@ There will be several events at CMSC, including:
     <tr>
       <td>14:40 – 15:05</td>
       <td>Strategies in Geometry Problem Solving supported by Dynamic Geometric Software</td>
-      <td>Matthias Müller, University of Teacher Education of the Grisons; Andreas Imhof, University of Teacher Education of the Grisons</td>
+      <td>Matthias Müller, University of Teacher Education of the Grisons<br>Andreas Imhof, University of Teacher Education of the Grisons</td>
     </tr>
     <tr>
       <td>15:05 – 15:30</td>
@@ -90,7 +95,7 @@ There will be several events at CMSC, including:
     <tr>
       <td>15:30 – 15:55</td>
       <td>From Cards to Conversations: Tracing Participation Through a Mathematics Game Introduced Online</td>
-      <td>Adithi Iyer, Indian Institute of Technology Gandhinagar; Jyothi Krishnan, Indian Institute of Technology Gandhinagar</td>
+      <td>Adithi Iyer, Indian Institute of Technology Gandhinagar<br>Jyothi Krishnan, Indian Institute of Technology Gandhinagar</td>
     </tr>
     <tr>
       <td>15:55 – 16:30</td>
@@ -118,12 +123,12 @@ There will be several events at CMSC, including:
     <tr>
       <td>09:50 – 10:15</td>
       <td>A practical activity on the shortest path problem with theoretical and algorithmic implications</td>
-      <td>Pietro Belotti, Politecnico di Milano; Francesca Fumero, Politecnico di Milano; Federico Malucelli, Politecnico di Milano</td>
+      <td>Pietro Belotti, Politecnico di Milano<br>Francesca Fumero, Politecnico di Milano<br>Federico Malucelli, Politecnico di Milano</td>
     </tr>
     <tr>
       <td>10:15 – 10:40</td>
       <td>Data Stream Algorithms Unplugged</td>
-      <td>Philip Bille, Technical University of Denmark; Inge Li Gørtz, Technical University of Denmark</td>
+      <td>Philip Bille, Technical University of Denmark<br>Inge Li Gørtz, Technical University of Denmark</td>
     </tr>
     <tr>
       <td>10:40 – 11:15</td>
@@ -137,13 +142,13 @@ There will be several events at CMSC, including:
     </tr>
     <tr>
       <td>11:40 – 12:05</td>
-      <td>From Pantomime to Bitomime – A CS Unplugged Approach to Binary Encoding &amp; Decoding in Primary Education</td>
-      <td>Sonja Klein, TU Wien; Lukas Lehner, TU Wien; Klaus Nigsch, TU Wien; René Röpke, TU Wien</td>
+      <td>From Pantomime to Bitomime – A CS Unplugged Approach to Binary Encoding &amp<br>Decoding in Primary Education</td>
+      <td>Sonja Klein, TU Wien<br>Lukas Lehner, TU Wien<br>Klaus Nigsch, TU Wien<br>René Röpke, TU Wien</td>
     </tr>
     <tr>
       <td>12:05 – 12:30</td>
       <td>TuringViz: Teaching Turing Machines with Configuration Graphs and Computation Trees</td>
-      <td>Christoph Greger, University of Regensburg; Gregor Porsch, University of Regensburg</td>
+      <td>Christoph Greger, University of Regensburg<br>Gregor Porsch, University of Regensburg</td>
     </tr>
     <tr>
       <td>12:30 – 14:15</td>
@@ -201,7 +206,7 @@ There will be several events at CMSC, including:
     <tr>
       <td>09:50 – 10:15</td>
       <td>GENIUS: Enhancing Mathematical Discovery through Teamwork and Play</td>
-      <td>Laura Antonelli, Consiglio Nazionale delle Ricerche, IAC; Maria Francesca Carfora, Consiglio Nazionale delle Ricerche, IAC</td>
+      <td>Laura Antonelli, Consiglio Nazionale delle Ricerche, IAC<br>Maria Francesca Carfora, Consiglio Nazionale delle Ricerche, IAC</td>
     </tr>
     <tr>
       <td>10:15 – 10:45</td>
@@ -211,7 +216,7 @@ There will be several events at CMSC, including:
     <tr>
       <td>10:45 – 11:05</td>
       <td>From Logic Gates to Hidden Layers: a hands-on introduction to Neural Networks for young learners</td>
-      <td>Laura Cesaro, Università degli Studi di Padova; Thomas Deneux, Institut de Neurosciences Paris-Saclay, CNRS, Université Paris-Saclay</td>
+      <td>Laura Cesaro, Università degli Studi di Padova<br>Thomas Deneux, Institut de Neurosciences Paris-Saclay, CNRS, Université Paris-Saclay</td>
     </tr>
     <tr>
       <td>11:05 – 11:30</td>
@@ -231,17 +236,17 @@ There will be several events at CMSC, including:
     <tr>
       <td>14:15 – 14:40</td>
       <td>Teaching Error Detection and Correction by Card Magic</td>
-      <td>Regula Lacher, ETH Zürich; Juraj Hromkovic, ETH Zürich</td>
+      <td>Regula Lacher, ETH Zürich<br>Juraj Hromkovic, ETH Zürich</td>
     </tr>
     <tr>
       <td>14:40 – 15:05</td>
       <td>Songs and Other Pedagogical Modes to Teach Computational Thinking in Primary School: An Experience Report</td>
-      <td>Smitha Balakrishnan, Tata Consultancy Service; Vipul Shah, Tata Consultancy Services; Deepali Navghane, Tata Consultancy Services</td>
+      <td>Smitha Balakrishnan, Tata Consultancy Service<br>Vipul Shah, Tata Consultancy Services<br>Deepali Navghane, Tata Consultancy Services</td>
     </tr>
     <tr>
       <td>15:05 – 15:30</td>
       <td>Integrating immersive technologies into secondary Mathematics: from AR applications to teachers’ training</td>
-      <td>Valeria Andriano, Università di Torino; Monica Barbero, Università di Torino; Matteo Bramardi, Università di Torino; Walter Dambrosio, Università di Torino</td>
+      <td>Valeria Andriano, Università di Torino<br>Monica Barbero, Università di Torino<br>Matteo Bramardi, Università di Torino<br>Walter Dambrosio, Università di Torino</td>
     </tr>
     <tr>
       <td>15:30 – 16:15</td>
