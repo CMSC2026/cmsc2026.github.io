@@ -149,7 +149,7 @@ author_profile: true
     </tr>
     <tr>
       <td>14:15 – 14:45</td>
-      <td>Visit to Centro Sonologia Computazionale (Group 1)</td>
+      <td>Visit to [Centro Sonologia Computazionale](https://csc.dei.unipd.it) (Group 1)</td>
       <td></td>
     </tr>
     <tr>
@@ -169,17 +169,17 @@ author_profile: true
     </tr>
     <tr>
       <td>18:00 – 18:45</td>
-      <td>Visit Palazzo del Bo (Group 1)</td>
+      <td>Visit [Palazzo Bo](https://www.unipd.it/en/visite-bo-sala-giganti) (Group 1)</td>
       <td></td>
     </tr>
     <tr>
       <td>18:15 – 19:00</td>
-      <td>Visit Palazzo del Bo (Group 2)</td>
+      <td>Visit Palazzo Bo (Group 2)</td>
       <td></td>
     </tr>
     <tr>
       <td>19:30 – 22:00</td>
-      <td>Social dinner at “Dante alle Piazze”</td>
+      <td>Social dinner at [Dante alle Piazze](https://maps.app.goo.gl/sbgJAoncpaeQqjYy5)</td>
       <td></td>
     </tr>
     <tr>
