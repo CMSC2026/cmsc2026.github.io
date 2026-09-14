@@ -95,7 +95,7 @@ author_profile: true
       <td></td>
     </tr>
     <tr>
-      <td>16:30 – 17:30</td>
+      <td>16:15 – 17:30</td>
       <td>Poster session</td>
       <td></td>
     </tr>
@@ -149,12 +149,12 @@ author_profile: true
     </tr>
     <tr>
       <td>14:15 – 14:45</td>
-      <td>Visit to [Centro Sonologia Computazionale](https://csc.dei.unipd.it) (Group 1)</td>
+      <td>Visit to CSC (Centro Sonologia Computazionale) for "Generative AI and co-creativity in music" (Group 1)</td>
       <td></td>
     </tr>
     <tr>
       <td>14:45 – 15:15</td>
-      <td>Visit to Centro Sonologia Computazionale (Group 2)</td>
+      <td>Visit to CSC (Centro Sonologia Computazionale) for "Generative AI and co-creativity in music" (Group 2)</td>
       <td></td>
     </tr>
     <tr>
@@ -169,17 +169,17 @@ author_profile: true
     </tr>
     <tr>
       <td>18:00 – 18:45</td>
-      <td>Visit [Palazzo Bo](https://www.unipd.it/en/visite-bo-sala-giganti) (Group 1)</td>
+      <td>Visit to Palazzo Bo (Group 1)</td>
       <td></td>
     </tr>
     <tr>
       <td>18:15 – 19:00</td>
-      <td>Visit Palazzo Bo (Group 2)</td>
+      <td>Visit to Palazzo Bo (Group 2)</td>
       <td></td>
     </tr>
     <tr>
       <td>19:30 – 22:00</td>
-      <td>Social dinner at [Dante alle Piazze](https://maps.app.goo.gl/sbgJAoncpaeQqjYy5)</td>
+      <td>Social dinner at Dante alle Piazze restaurant</td>
       <td></td>
     </tr>
     <tr>
@@ -242,7 +242,7 @@ author_profile: true
     </tr>
     <tr>
       <td>15:30 – 16:15</td>
-      <td>Aperitivo</td>
+      <td>Aperitivo break</td>
       <td></td>
     </tr>
     <tr>
@@ -263,7 +263,7 @@ author_profile: true
 There will be several events at CMSC, including:
 - Presentations of accepted papers (see below).
 - Poster session for accepted posters (see below).
-- **Social events**: tour of Palazzo Bo, which is the historical main building of the University of Padova; tour of the historical city center of Padova; social dinner.
+- **Social events**: tour of Palazzo Bo, which is the historical main building of the University of Padova; tour of the historical city center of Padova; social dinner at [Dante Alle Piazze restaurant](https://www.danteallepiazze.it/).
 - Keynotes from invited international speakers: **Timothy C. Bell** (University of Canterbury), **Vanesa Guerrero Lozano** (Universidad Carlos III de Madrid), **Neeldhara Misra** (Indian Institute of Technology, Gandhinagar). [See here](/speakers/) for titles and abstracts.
 - Special event: **Generative AI and co-creativity in music** by Sergio Canazza, Alessandro Fiordelmondo, Elisa Gremmo and Ardavan Vossoughi, (University of Padua, “Centro di Sonologia Computazionale”). We will discuss to what extent modern generative artificial intelligence is "creative" in the music field. To this end, we will bring together a small group of three experts from the hard sciences (computer science/engineering) and the humanities (philosophy and musicology). Can machines compose? How does musical writing change when a composer works side by side with an AI? At the [Centro di Sonologia Computazione (CSC)](http://csc.dei.unipd.it) of the Department of Information Engineering (Padua University), a study was conducted with the aim of examining the interaction between the composer and generative AI. The experiment consisted of three steps: the composition of the dataset, the artificial generation of the pieces, and finally, their reworking by the composer Ardavan Vossoughi. The instrument chosen as the recipient and performer of the music was the Disklavier, an acoustic piano equipped with actuators that allow remote control of keys and pedals. During the event, we can discuss with the composer from different points of view and listen to the music co-created together with an AI.
 - **[Teachers' Day (October 15th, 2026)](/teachers-day/)**
@@ -298,5 +298,14 @@ with theoretical and algorithmic implications*
 
 **List of accepted posters (in alphabetical order by first author)**
 
-TBA
+- Cecilia Campani and Francesca Morselli. *Investigating Mathematics Outreach Laboratories as Communicative and Educational Environments*
+- Valentina Dagienė and Marika Parviainen. *When Computational Thinking Meets Mathematics A Technology-Enhanced Approach to Strengthening Mathematical Problem Solving in Primary Education*
+- Marcelo de Souza and Luan Caetano Camargo. *Bridging entertainment and education: Teaching network science through popular fiction*
+- Eglė Jasutė, Valentina Dagienė, Vaidotas Kinčius and Marika Parviainen. *Bridging Computational Thinking and Mathematics through Tangible Learning Materials*
+- Himanshu Kumar. *The Kingdom Defense Game: An Unplugged Approach to Eternal Relaxed Vertex Cover*
+- Zuzana Masárová and Josef Tkadlec. *Activities of Grow Trails Verein: Math Camp Austria \& GPS games*
+- Sebastian Meiser and Esfandiar Mohammadi. *Differential Privacy Poker*
+- Martin Nöllenburg and Soeren Terziadis. *Platypuses and Binary Number*
+- Simone Ramello and Daniela Volpatto. *WhoDATAit? Game-based Learning of Data Analysis and Visualization in Secondary School*
+- Anuya Trivedi, Jay Thakkar, Imroz Khan and Neha Garg. *Unplugged CT at Playground Scale*
 
