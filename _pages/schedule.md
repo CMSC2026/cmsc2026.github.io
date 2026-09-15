@@ -198,7 +198,7 @@ author_profile: true
     <tr>
       <td>09:50 – 10:15</td>
       <td>GENIUS: Enhancing Mathematical Discovery through Teamwork and Play</td>
-      <td>Laura Antonelli, Consiglio Nazionale delle Ricerche, IAC<br>Maria Francesca Carfora, Consiglio Nazionale delle Ricerche, IAC</td>
+      <td>Laura Antonelli, Consiglio Nazionale delle Ricerche, ICAR<br>Maria Francesca Carfora, Consiglio Nazionale delle Ricerche, IAC</td>
     </tr>
     <tr>
       <td>10:15 – 10:45</td>
