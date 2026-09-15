@@ -226,10 +226,10 @@ The program includes include invited plenary presentations and workshops, as tut
       <td>Workshop</td>
       <td>
         Laura Antonelli<br>
+        Consiglio Nazionale delle Ricerche, ICAR<br>
         and<br>
         Maria Francesca Carfora<br>
-        Consiglio Nazionale delle Ricerche,<br>
-        Istituto per le Applicazioni del Calcolo “Mauro Picone”, Italy
+        Consiglio Nazionale delle Ricerche, IAC<br>
       </td>
       <td>GENIUS</td>
       <td>
