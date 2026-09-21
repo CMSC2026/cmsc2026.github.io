@@ -183,14 +183,15 @@ The program includes include invited plenary presentations and workshops, as tut
         <img src="/images/teachers-day-spes-montessori.jpg"
              style="float: left; margin-right: 1em; max-width: 120px;"
              alt="Centro Montessori SPES">
-        <br>
+        <br>Daniela Valenti, <br>
         <a href="https://www.spes.pd.it/educare/offerta-didattica/centro-montessori/">
           Centro Montessori SPES
         </a><br>
         Padova, Italy
       </td>
-      <td>TBA</td>
-      <td>TBA</td>
+      <td>Astrazioni materializzate: la mano che costruisce il sapere</td>
+      <td>Dai numeri naturali ai numeri relativi: un percorso di di acquisizione di conoscenze matematiche nella scuola primaria a Metodo Montessori.
+Si presentano con il Materiale Montessori i passaggi di addizioni in riga col Serpente Positivo, addizioni e sottrazioni in riga col Serpente Negativo finalizzati al calcolo a mente per arrivare alla scoperta dei numeri relativi e ad eseguire addizioni algebriche col Serpente Algebrico.</td>
       <td>Italiano</td>
     </tr>
 
