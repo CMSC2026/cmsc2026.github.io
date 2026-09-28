@@ -85,17 +85,17 @@ author_profile: true
       <td>Alessandro Bogliolo, University of Urbino</td>
     </tr>
     <tr>
-      <td>15:30 – 15:55</td>
-      <td>From Cards to Conversations: Tracing Participation Through a Mathematics Game Introduced Online</td>
-      <td>Adithi Iyer, Indian Institute of Technology Gandhinagar<br>Jyothi Krishnan, Indian Institute of Technology Gandhinagar</td>
+      <td>15:30 – 16:00</td>
+      <td>Poster session</td>
+      <td></td>
     </tr>
     <tr>
-      <td>15:55 – 16:30</td>
+      <td>16:00 – 16:30</td>
       <td>Coffee break</td>
       <td></td>
     </tr>
     <tr>
-      <td>16:15 – 17:30</td>
+      <td>16:30 – 17:30</td>
       <td>Poster session</td>
       <td></td>
     </tr>
@@ -143,22 +143,33 @@ author_profile: true
       <td>Christoph Greger, University of Regensburg<br>Gregor Porsch, University of Regensburg</td>
     </tr>
     <tr>
-      <td>12:30 – 14:15</td>
+      <td>12:30 – 14:30</td>
       <td>Lunch on own</td>
       <td></td>
     </tr>
     <tr>
-      <td>14:30 – 15:00</td>
-      <td>Visit to CSC (Centro Sonologia Computazionale) for "Generative AI and co-creativity in music" (Group 1)</td>
+      <td>14:30 – 14:55 (at Room 318, DEI/D)</td>
+      <td>From Cards to Conversations: Tracing Participation Through a Mathematics Game Introduced Online</td>
+      <td>Adithi Iyer, Indian Institute of Technology Gandhinagar<br>Jyothi Krishnan, Indian Institute of Technology Gandhinagar</td>
+    </tr>
+    <tr>
+      <td>15:00 – 15:15</td>
+      <td>Introduction to the <i>Centro Sonologia Computazionale</i> (CSC)</td>
       <td></td>
     </tr>
     <tr>
-      <td>15:00 – 15:30</td>
-      <td>Visit to CSC (Centro Sonologia Computazionale) for "Generative AI and co-creativity in music" (Group 2)</td>
+    <tr>
+      <td>15:15 – 15:45</td>
+      <td>Visit to the CSC for "Generative AI and co-creativity in music" (Group 1)</td>
       <td></td>
     </tr>
     <tr>
-      <td>16:30 – 17:00</td>
+      <td>15:45 – 16:15</td>
+      <td>Visit to the CSC for "Generative AI and co-creativity in music" (Group 2)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>16:30 – 17:30</td>
       <td>Moving towards city center</td>
       <td></td>
     </tr>
@@ -174,7 +185,7 @@ author_profile: true
     </tr>
     <tr>
       <td>19:30 – 22:00</td>
-      <td>Social dinner at Dante alle Piazze restaurant</td>
+      <td>Social dinner at <a href="https://maps.app.goo.gl/TspiArAwSnnihRt96">Dante alle Piazze restaurant</a></td>
       <td></td>
     </tr>
     <tr>
