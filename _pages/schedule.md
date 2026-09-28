@@ -185,7 +185,7 @@ author_profile: true
     </tr>
     <tr>
       <td>19:30 – 22:00</td>
-      <td>Social dinner at <a href="https://maps.app.goo.gl/TspiArAwSnnihRt96">Dante alle Piazze restaurant</a></td>
+      <td>Social dinner at Dante alle Piazze restaurant</td>
       <td></td>
     </tr>
     <tr>
