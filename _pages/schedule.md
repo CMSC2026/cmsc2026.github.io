@@ -158,7 +158,6 @@ author_profile: true
       <td></td>
     </tr>
     <tr>
-    <tr>
       <td>15:15 – 15:45</td>
       <td>Visit to the CSC for "Generative AI and co-creativity in music" (Group 1)</td>
       <td></td>
@@ -185,7 +184,7 @@ author_profile: true
     </tr>
     <tr>
       <td>19:30 – 22:00</td>
-      <td>Social dinner at Dante alle Piazze restaurant</td>
+      <td>Social dinner at <a href="https://maps.app.goo.gl/TspiArAwSnnihRt96">Dante alle Piazze restaurant</a></td>
       <td></td>
     </tr>
     <tr>
