@@ -165,7 +165,7 @@ author_profile: true
     <tr>
       <td>15:45 – 16:15</td>
       <td>Visit to the CSC for "Generative AI and co-creativity in music" (Group 2)</td>
-      <td><Ardavan Vossoughi, Elisa Gremmo, Sergio Canazza/td>
+      <td>Ardavan Vossoughi, Elisa Gremmo, Sergio Canazza</td>
     </tr>
     <tr>
       <td>16:30 – 17:30</td>
