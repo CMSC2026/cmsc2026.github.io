@@ -11,7 +11,9 @@ Giovedì 15 ottobre 2026, ultimo giorno del convegno, ci sarà un **workshop ibr
 
 Il programma include presentazioni plenarie su invito e workshop, sotto forma di tutorial e laboratori interattivi, di interesse per i e le docenti. Queste attività includono anche alcuni articoli scientifici accettati per la conferenza di CMSC 2026, dando la possibilità agli autori e alle autrici di presentare il proprio lavoro e illustrare come possa essere utilizzato o adattato per un'attività in classe. Per ogni attività, sono specificati speaker(s), titolo, abstract e linguaggio di erogazione (italiano o inglese).
 
-La **partecipazione per i e le docenti è gratuita**, con iscrizione obbligatoria entro il **2 ottobre 2026**, tramite la compilazione del seguente modulo: **[Registrazione al Teachers' Day](https://forms.gle/1uckWV2vdgQav23bA)** -- *Max. 50 posti disponibili; logica FIFO*.
+La **partecipazione per i e le docenti è gratuita**.
+Ci sono ancora pochi posti disponibili, per iscriverti compila il seguente modulo: **[Registrazione al Teachers' Day](https://forms.gle/1uckWV2vdgQav23bA)** -- *Max. 50 posti disponibili; logica FIFO*.-->
+<!--con iscrizione obbligatoria entro il **2 ottobre 2026**, tramite la compilazione del seguente modulo: **[Registrazione al Teachers' Day](https://forms.gle/1uckWV2vdgQav23bA)** -- *Max. 50 posti disponibili; logica FIFO*.-->
 
 [Poster ufficiale](/files/CMSC2026-TeachersDay-PosterIT-v20260906.pdf)
 
