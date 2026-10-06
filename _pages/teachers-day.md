@@ -7,7 +7,7 @@ author_profile: true
 
 *Versione italiana*
 
-Giovedì 15 ottobre 2026, ultimo giorno del convegno, ci sarà un **workshop ibrido sulla creatività**, per uno scambio reciproco di idee tra ricercatori e ricercatrici partecipanti di CMSC 2026 e insegnanti delle scuole primarie e secondarie di primo grado.
+Giovedì 15 ottobre 2026, ultimo giorno del convegno, ci sarà un **workshop sulla creatività**, per uno scambio reciproco di idee tra ricercatori e ricercatrici partecipanti di CMSC 2026 e insegnanti delle scuole primarie e secondarie di primo grado.
 
 Il programma include presentazioni plenarie su invito e workshop, sotto forma di tutorial e laboratori interattivi, di interesse per i e le docenti. Queste attività includono anche alcuni articoli scientifici accettati per la conferenza di CMSC 2026, dando la possibilità agli autori e alle autrici di presentare il proprio lavoro e illustrare come possa essere utilizzato o adattato per un'attività in classe. Per ogni attività, sono specificati speaker(s), titolo, abstract e linguaggio di erogazione (italiano o inglese).
 
