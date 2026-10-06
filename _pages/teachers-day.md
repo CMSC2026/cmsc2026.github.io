@@ -90,7 +90,7 @@ The program includes include invited plenary presentations and workshops, as tut
     </tr>
 
     <tr>
-      <td>09:35 – 10:15</td>
+      <td>09:35 – 10:20</td>
       <td>Workshop</td>
       <td>
         Michael Lodi<br>
@@ -102,7 +102,7 @@ The program includes include invited plenary presentations and workshops, as tut
     </tr>
 
     <tr>
-      <td>10:15 – 10:55</td>
+      <td>10:20 – 11:05</td>
       <td>Workshop</td>
       <td>
         Christophe Stammet<br>
@@ -122,12 +122,12 @@ The program includes include invited plenary presentations and workshops, as tut
     </tr>
 
     <tr>
-      <td>10:55 – 11:25</td>
+      <td>11:05 – 11:35</td>
       <td colspan="5">Coffee break</td>
     </tr>
 
     <tr>
-      <td>11:25 – 12:00</td>
+      <td>11:35 – 12:10</td>
       <td><strong>Invited</strong></td>
       <td>
         <img src="/images/teachers-day-maria-francesca-carfora.jpg"
@@ -151,7 +151,7 @@ The program includes include invited plenary presentations and workshops, as tut
     </tr>
 
     <tr>
-      <td>12:00 – 12:40</td>
+      <td>12:10 – 12:55</td>
       <td>Workshop</td>
       <td>
         Adithi Iyer<br>
@@ -172,12 +172,12 @@ The program includes include invited plenary presentations and workshops, as tut
     </tr>
 
     <tr>
-      <td>12:40 – 13:45</td>
+      <td>12:55 – 14:00</td>
       <td colspan="5">Lunch break</td>
     </tr>
 
     <tr>
-      <td>13:45 – 14:20</td>
+      <td>14:00 – 14:35</td>
       <td><strong>Invited</strong></td>
       <td>
         <img src="/images/teachers-day-spes-montessori.jpg"
@@ -190,13 +190,12 @@ The program includes include invited plenary presentations and workshops, as tut
         Padova, Italy
       </td>
       <td>Astrazioni materializzate: la mano che costruisce il sapere</td>
-      <td>Dai numeri naturali ai numeri relativi: un percorso di di acquisizione di conoscenze matematiche nella scuola primaria a Metodo Montessori.
-Si presentano con il Materiale Montessori i passaggi di addizioni in riga col Serpente Positivo, addizioni e sottrazioni in riga col Serpente Negativo finalizzati al calcolo a mente per arrivare alla scoperta dei numeri relativi e ad eseguire addizioni algebriche col Serpente Algebrico.</td>
+      <td>Dai numeri naturali ai numeri relativi: un percorso di di acquisizione di conoscenze matematiche nella scuola primaria a Metodo Montessori. Si presentano con il Materiale Montessori i passaggi di addizioni in riga col Serpente Positivo, addizioni e sottrazioni in riga col Serpente Negativo finalizzati al calcolo a mente per arrivare alla scoperta dei numeri relativi e ad eseguire addizioni algebriche col Serpente Algebrico.</td>
       <td>Italiano</td>
     </tr>
 
     <tr>
-      <td>14:20 – 15:00</td>
+      <td>14:35 – 15:20</td>
       <td>Workshop</td>
       <td>
         Marika Parviainen<br>
@@ -223,7 +222,7 @@ Si presentano con il Materiale Montessori i passaggi di addizioni in riga col Se
     </tr>
 
     <tr>
-      <td>15:00 – 15:40</td>
+      <td>15:20 – 16:05</td>
       <td>Workshop</td>
       <td>
         Laura Antonelli<br>
@@ -240,46 +239,13 @@ Si presentano con il Materiale Montessori i passaggi di addizioni in riga col Se
       <td>Italiano</td>
     </tr>
     <tr>
-
     <tr>
-      <td>15:40 – 16:15</td>
-      <td><strong>Invited</strong></td>
-      <td>
-        <img src="/images/teachers-day-lorella-carimali.jpg"
-             style="float: left; margin-right: 1em; max-width: 120px;"
-             alt="Lorella Carimali">
-        <br>
-        <a href="https://lorellacarimali.it">Lorella Carimali</a><br>
-        Dirigente Tecnico per le STEM, Ministero dell'Istruzione e del Merito, Italy
-      </td>
-      <td>Prima della dimostrazione: la matematica come arte dell’immaginare</td>
-      <td>
-        Che cosa accade prima di una dimostrazione? Prima del rigore, della formalizzazione e della
-        soluzione, c’è spesso un’intuizione: una domanda, un’immagine, una connessione inattesa,
-        una possibilità ancora da esplorare. È in questo spazio che la matematica rivela la sua
-        natura profondamente creativa. Fare matematica non significa soltanto applicare regole o
-        eseguire procedure. Significa osservare, formulare congetture, cambiare punto di vista,
-        riconoscere strutture e immaginare ciò che ancora non si vede. In questo senso, la matematica
-        è vicina all’arte: entrambe nascono dalla capacità umana di creare forme, relazioni e mondi
-        possibili. Se questa è la natura della matematica, allora anche il suo insegnamento deve
-        lasciare spazio all’immaginazione, alla curiosità, all’errore, al dubbio e alla ricerca.
-        Educare una mente matematica significa aiutare studentesse e studenti non soltanto a trovare
-        risposte corrette, ma a porre domande significative, costruire connessioni e sviluppare un
-        pensiero autonomo. In un tempo in cui le macchine sono sempre più capaci di produrre risposte,
-        questa dimensione creativa diventa ancora più essenziale. La matematica può allora tornare a
-        essere ciò che profondamente è: non solo uno strumento per comprendere il mondo, ma un’arte
-        del pensiero e dell’immaginazione.
-      </td>
-      <td>Italiano</td>
-    </tr>
-
-    <tr>
-      <td>16:15 – 16:45</td>
+      <td>16:05 – 16:35</td>
       <td colspan="5">Coffee break</td>
     </tr>
 
     <tr>
-      <td>16:45 – 17:25</td>
+      <td>16:35 – 17:20</td>
       <td>Workshop</td>
       <td>
         Neha Garg<br>
@@ -298,7 +264,7 @@ Si presentano con il Materiale Montessori i passaggi di addizioni in riga col Se
       <td>English</td>
     </tr>
 
-      <td>17:25 – 17:55</td>
+      <td>17:20 – 17:55</td>
       <td>Workshop</td>
       <td>
         Federico Malucelli<br>
