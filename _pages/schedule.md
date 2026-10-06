@@ -155,17 +155,17 @@ author_profile: true
     <tr>
       <td>15:00 – 15:15</td>
       <td>Introduction to the <i>Centro Sonologia Computazionale</i> (CSC)</td>
-      <td></td>
+      <td>Elisa Gremmo, Sergio Canazza</td>
     </tr>
     <tr>
       <td>15:15 – 15:45</td>
       <td>Visit to the CSC for "Generative AI and co-creativity in music" (Group 1)</td>
-      <td></td>
+      <td>Ardavan Vossoughi, Elisa Gremmo, Sergio Canazza</td>
     </tr>
     <tr>
       <td>15:45 – 16:15</td>
       <td>Visit to the CSC for "Generative AI and co-creativity in music" (Group 2)</td>
-      <td></td>
+      <td>Ardavan Vossoughi, Elisa Gremmo, Sergio Canazza</td>
     </tr>
     <tr>
       <td>16:30 – 17:30</td>
