@@ -305,9 +305,9 @@ with theoretical and algorithmic implications*
 
 - Cecilia Campani and Francesca Morselli. *Investigating Mathematics Outreach Laboratories as Communicative and Educational Environments*
 - Valentina Dagienė and Marika Parviainen. *When Computational Thinking Meets Mathematics A Technology-Enhanced Approach to Strengthening Mathematical Problem Solving in Primary Education*
-- Marcelo de Souza and Luan Caetano Camargo. *Bridging entertainment and education: Teaching network science through popular fiction*
+<!--- Marcelo de Souza and Luan Caetano Camargo. *Bridging entertainment and education: Teaching network science through popular fiction*-->
 - Eglė Jasutė, Valentina Dagienė, Vaidotas Kinčius and Marika Parviainen. *Bridging Computational Thinking and Mathematics through Tangible Learning Materials*
-- Himanshu Kumar. *The Kingdom Defense Game: An Unplugged Approach to Eternal Relaxed Vertex Cover*
+<!--- Himanshu Kumar. *The Kingdom Defense Game: An Unplugged Approach to Eternal Relaxed Vertex Cover*-->
 - Zuzana Masárová and Josef Tkadlec. *Activities of Grow Trails Verein: Math Camp Austria \& GPS games*
 - Sebastian Meiser and Esfandiar Mohammadi. *Differential Privacy Poker*
 - Martin Nöllenburg and Soeren Terziadis. *Platypuses and Binary Number*
