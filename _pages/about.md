@@ -24,6 +24,19 @@ We are pleased to invite you to the 8th edition of the international conference 
 
 
 ## News
+- **October 12, 2026**: Thanks to Springer, proceedings are freely available for four weeks to authors using this link:
+  <div align="center">
+    <a href="https://link.springer.com/book/9783032388865" target="_blank">
+      Proceedings of the 8th International Conference Creative Mathematical Sciences Communication, 
+      LNCS Volume 16951
+    </a>
+    <br>
+    <a href="https://link.springer.com/book/9783032388865" target="_blank">
+      <img src="/images/proceedings.png" width="400">
+    </a>
+  </div>
+
+[[Proceedings cover]()]()
 
 - **October 06, 2026**: There are still a few spots available for the [Teachers' Day](/teachers-day)!
 - **September 14, 2026**: The [list of accepted posters](/schedule/) is available.
