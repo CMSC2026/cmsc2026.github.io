@@ -36,8 +36,6 @@ We are pleased to invite you to the 8th edition of the international conference 
     </a>
   </div>
 
-[[Proceedings cover]()]()
-
 - **October 06, 2026**: There are still a few spots available for the [Teachers' Day](/teachers-day)!
 - **September 14, 2026**: The [list of accepted posters](/schedule/) is available.
 - **September 12, 2026**: The [conference schedule](/schedule/) is available.
