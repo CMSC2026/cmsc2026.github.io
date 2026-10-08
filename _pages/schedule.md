@@ -18,7 +18,7 @@ author_profile: true
       <th>Time</th>
       <th>Title</th>
       <th>Speaker(s)</th>
-      <th>Chair(s)</th>
+      <th>Chair</th>
     </tr>
   </thead>
   <tbody>
