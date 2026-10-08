@@ -18,6 +18,7 @@ author_profile: true
       <th>Time</th>
       <th>Title</th>
       <th>Speaker(s)</th>
+      <th>Chair(s)</th>
     </tr>
   </thead>
   <tbody>
@@ -32,71 +33,79 @@ author_profile: true
     <tr>
       <td>09:00 – 9:15</td>
       <td>Welcome Opening</td>
+      <td>Maarten Löffler, Alice Raffaele, Francesco Silvestri</td>
       <td></td>
     </tr>
     <tr>
       <td>09:15 – 10:05</td>
       <td><strong>Keynote 1: Mathematics beyond the classroom: two experiences in science communication</strong></td>
       <td>Vanesa Guerrero Lozano, Universidad Carlos III de Madrid</td>
+      <td>Alice Raffaele</td>
     </tr>
     <tr>
       <td>10:05 – 10:30</td>
       <td>Mapping Abstract Reasoning: A Freinet-Inspired Approach to Creative Logic Communication in Secondary Schools</td>
       <td>Cosimo Perini Brogi, IMT School for Advanced Studies Lucca</td>
+      <td></td>
     </tr>
     <tr>
       <td>10:30–11:00</td>
       <td>Coffee break</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>11:00 – 11:25</td>
       <td>Interrelations and Overlaps between Computational and Algebraic Thinking: A Cross-National Study in Schools</td>
       <td>Daranee Lehtonen, Turku Research Institute for Learning Analytics, University of Turku<br>Esa Satomaa, Turku Research Institute for Learning Analytics, University of Turku<br>Valentina Dagienė, Institute of Educational Sciences, Vilnius University<br>Javier Bilbao, University of the Basque Country<br>Tuğba Öztürk, Ankara University<br>Marika Parviainen, Turku Research Institute for Learning Analytics, University of Turku</td>
+      <td>Alessandro Bogliolo</td>
     </tr>
     <tr>
       <td>11:25 – 11:50</td>
       <td>From Problem Solving to Research Thinking: A Graph-Theoretic Whodunit</td>
       <td>Lucas Lorieau, CNRS, LIMOS, Université Clermont Auvergne<br>Nicolas Schivre, LIMOS, Université Clermont Auvergne</td>
+      <td></td>
     </tr>
     <tr>
       <td>11:50 – 12:15</td>
       <td>Playing the Odds: Bids, Belief, and Probabilistic Reasoning in Indian Classrooms</td>
       <td>Neha Garg, IIT Gandhinagar<br>Jyothi Krishnan, IIT Gandhinagar</td>
+      <td></td>
     </tr>
     <tr>
       <td>12:15 – 14:15</td>
       <td>Lunch on own</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>14:15 – 14:40</td>
       <td>Making CS Education more accessible through creative robot personalization</td>
       <td>Laura Cesaro, Università degli Studi di Padova</td>
+      <td>Valentina Dagienė</td>
     </tr>
     <tr>
       <td>14:40 – 15:05</td>
       <td>Strategies in Geometry Problem Solving supported by Dynamic Geometric Software</td>
       <td>Matthias Müller, University of Teacher Education of the Grisons<br>Andreas Imhof, University of Teacher Education of the Grisons</td>
+      <td></td>
     </tr>
     <tr>
       <td>15:05 – 15:30</td>
       <td>CodyRoby: An Embodied Programming Environment for Computational Thinking</td>
       <td>Alessandro Bogliolo, University of Urbino</td>
-    </tr>
-    <tr>
-      <td>15:30 – 16:00</td>
-      <td>Poster session</td>
       <td></td>
     </tr>
     <tr>
-      <td>16:00 – 16:30</td>
-      <td>Coffee break</td>
+      <td>15:30 – 16:30</td>
+      <td>Group photo + Coffee break</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>16:30 – 17:30</td>
+      <td>16:00 – 17:30</td>
       <td>Poster session</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -106,85 +115,102 @@ author_profile: true
       <td>08:15 – 9:00</td>
       <td>Registration</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>09:00 – 9:50</td>
       <td><strong>Keynote 2: Reflections on 30+ years of CS Unplugged</strong></td>
       <td>Timothy C. Bell, University of Canterbury</td>
+      <td>Francesco Silvestri</td>
     </tr>
     <tr>
       <td>09:50 – 10:15</td>
       <td>A practical activity on the shortest path problem with theoretical and algorithmic implications</td>
       <td>Pietro Belotti, Politecnico di Milano<br>Francesca Fumero, Politecnico di Milano<br>Federico Malucelli, Politecnico di Milano</td>
+      <td></td>
     </tr>
     <tr>
       <td>10:15 – 10:40</td>
       <td>Data Stream Algorithms Unplugged</td>
       <td>Philip Bille, Technical University of Denmark<br>Inge Li Gørtz, Technical University of Denmark</td>
+      <td></td>
     </tr>
     <tr>
       <td>10:40 – 11:15</td>
       <td>Coffee break</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>11:15 – 11:40</td>
       <td>Hangers and Straws: Designing Low-Cost Unplugged Activities for Primary-School Algorithms</td>
       <td>Michael Lodi, Università di Bologna</td>
+      <td>Frances Rosamond</td>
     </tr>
     <tr>
       <td>11:40 – 12:05</td>
       <td>From Pantomime to Bitomime – A CS Unplugged Approach to Binary Encoding &amp; Decoding in Primary Education</td>
       <td>Sonja Klein, TU Wien<br>Lukas Lehner, TU Wien<br>Klaus Nigsch, TU Wien<br>René Röpke, TU Wien</td>
+      <td></td>
     </tr>
     <tr>
       <td>12:05 – 12:30</td>
       <td>TuringViz: Teaching Turing Machines with Configuration Graphs and Computation Trees</td>
       <td>Christoph Greger, University of Regensburg<br>Gregor Porsch, University of Regensburg</td>
+      <td></td>
     </tr>
     <tr>
       <td>12:30 – 14:30</td>
       <td>Lunch on own</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>14:30 – 14:55 (at Room 318, DEI/D)</td>
       <td>From Cards to Conversations: Tracing Participation Through a Mathematics Game Introduced Online</td>
       <td>Adithi Iyer, Indian Institute of Technology Gandhinagar<br>Jyothi Krishnan, Indian Institute of Technology Gandhinagar</td>
+      <td>Francesco Silvestri</td>
     </tr>
     <tr>
       <td>15:00 – 15:15</td>
       <td>Introduction to the <i>Centro Sonologia Computazionale</i> (CSC)</td>
       <td>Elisa Gremmo, Sergio Canazza</td>
+      <td></td>
     </tr>
     <tr>
       <td>15:15 – 15:45</td>
       <td>Visit to the CSC for "Generative AI and co-creativity in music" (Group 1)</td>
       <td>Ardavan Vossoughi, Elisa Gremmo, Sergio Canazza</td>
+      <td></td>
     </tr>
     <tr>
       <td>15:45 – 16:15</td>
       <td>Visit to the CSC for "Generative AI and co-creativity in music" (Group 2)</td>
       <td>Ardavan Vossoughi, Elisa Gremmo, Sergio Canazza</td>
+      <td></td>
     </tr>
     <tr>
       <td>16:30 – 17:30</td>
       <td>Moving towards city center</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>18:00 – 18:45</td>
       <td>Visit to Palazzo Bo (Group 1)</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>18:15 – 19:00</td>
       <td>Visit to Palazzo Bo (Group 2)</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>19:30 – 22:00</td>
       <td>Social dinner at <a href="https://maps.app.goo.gl/TspiArAwSnnihRt96">Dante alle Piazze restaurant</a></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -194,70 +220,84 @@ author_profile: true
       <td>08:15 – 9:00</td>
       <td>Registration</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>09:00 – 09:50</td>
       <td><strong>Keynote 3: Building Joyful Interactives</strong></td>
       <td>Neeldhara Misra, Indian Institute of Technology</td>
+      <td>Maarten Löffler</td>
     </tr>
     <tr>
       <td>09:50 – 10:15</td>
       <td>GENIUS: Enhancing Mathematical Discovery through Teamwork and Play</td>
       <td>Laura Antonelli, Consiglio Nazionale delle Ricerche, ICAR<br>Maria Francesca Carfora, Consiglio Nazionale delle Ricerche, IAC</td>
+      <td></td>
     </tr>
     <tr>
       <td>10:15 – 10:45</td>
       <td>Coffee break</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>10:45 – 11:05</td>
       <td>From Logic Gates to Hidden Layers: a hands-on introduction to Neural Networks for young learners</td>
       <td>Laura Cesaro, Università degli Studi di Padova<br>Thomas Deneux, Institut de Neurosciences Paris-Saclay, CNRS, Université Paris-Saclay</td>
+      <td>Lukas Lehner</td>
     </tr>
     <tr>
       <td>11:05 – 11:30</td>
       <td>Hands-On Methods for Teaching about Generative AI</td>
       <td>Christophe Stammet, University of Luxembourg</td>
+      <td></td>
     </tr>
     <tr>
       <td>11:30 – 11:55</td>
       <td>The fairness puzzle: unplugged activities for discovering why fair AI is hard</td>
       <td>Antonio Rodà, University of Padova</td>
+      <td></td>
     </tr>
     <tr>
       <td>12:00 – 14:15</td>
       <td>Lunch on own</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>14:15 – 14:40</td>
       <td>Teaching Error Detection and Correction by Card Magic</td>
       <td>Regula Lacher, ETH Zürich<br>Juraj Hromkovic, ETH Zürich</td>
+      <td>Jyothi Krishnan</td>
     </tr>
     <tr>
       <td>14:40 – 15:05</td>
       <td>Songs and Other Pedagogical Modes to Teach Computational Thinking in Primary School: An Experience Report</td>
       <td>Smitha Balakrishnan, Tata Consultancy Service<br>Vipul Shah, Tata Consultancy Services<br>Deepali Navghane, Tata Consultancy Services</td>
+      <td></td>
     </tr>
     <tr>
       <td>15:05 – 15:30</td>
       <td>Integrating immersive technologies into secondary Mathematics: from AR applications to teachers’ training</td>
       <td>Valeria Andriano, Università di Torino<br>Monica Barbero, Università di Torino<br>Matteo Bramardi, Università di Torino<br>Walter Dambrosio, Università di Torino</td>
+      <td></td>
     </tr>
     <tr>
       <td>15:30 – 16:15</td>
       <td>Aperitivo break</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>16:15 – 17:25</td>
       <td>CMSC business meeting</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>17:25 – 17:30</td>
       <td>Conference closing</td>
+      <td>Maarten Löffler, Alice Raffaele, Francesco Silvestri</td>
       <td></td>
     </tr>
   </tbody>
