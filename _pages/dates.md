@@ -22,7 +22,7 @@ author_profile: true
 
  - <s><b>Main conference registration opening</b>: July 04th, 2026</s>
  - <s><b>Teachers' Day registration opening</b>: April 30th, 2026</s>
- - <b>Teachers' Day registration deadline</b>: October 02nd, 2026
+ - <s><b>Teachers' Day registration deadline</b>: October 02nd, 2026</s>
  - <s><b>Early registration deadline</b>: September 08th, 2026</s>
  - <s><b>Late registration deadline</b>: September 30th, 2026</s>
 
