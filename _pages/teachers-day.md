@@ -97,8 +97,10 @@ The program includes include invited plenary presentations and workshops, as tut
       <td>
         Michael Lodi<br>
         University of Bologna, Italy<br>
-        Agnese Del Zozzo e Alberto Montresor<br>
+        and<br>
+        Agnese Del Zozzo, Alberto Montresor<br>
         University of Trento, Italy<br>
+        and<br>
         Giorgia Bissoli<br>
         Verona Fablab, Italy
       </td>
