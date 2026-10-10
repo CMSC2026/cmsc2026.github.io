@@ -58,7 +58,7 @@ author_profile: true
       <td>11:00 – 11:25</td>
       <td>Interrelations and Overlaps between Computational and Algebraic Thinking: A Cross-National Study in Schools</td>
       <td>Daranee Lehtonen, Turku Research Institute for Learning Analytics, University of Turku<br>Esa Satomaa, Turku Research Institute for Learning Analytics, University of Turku<br>Valentina Dagienė, Institute of Educational Sciences, Vilnius University<br>Javier Bilbao, University of the Basque Country<br>Tuğba Öztürk, Ankara University<br>Marika Parviainen, Turku Research Institute for Learning Analytics, University of Turku</td>
-      <td>Alessandro Bogliolo</td>
+      <td>TBA</td>
     </tr>
     <tr>
       <td>11:25 – 11:50</td>
