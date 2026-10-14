@@ -53,7 +53,7 @@ The program includes include invited plenary presentations and workshops, as tut
   <tbody>
 
     <tr>
-      <td>08:00 – 08:45</td>
+      <td>08:30 – 08:45</td>
       <td colspan="5">Registrazione/Registration</td>
     </tr>
 
